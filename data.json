@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-04T11:26:02Z",
-  "period_start": "2026-04-04",
-  "period_end": "2026-07-04",
+  "last_updated": "2026-07-05T11:32:13Z",
+  "period_start": "2026-04-05",
+  "period_end": "2026-07-05",
   "weekly": [
     {
       "agent_name": "Braden Lee",
@@ -1814,11 +1814,11 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-06-22",
-      "total_spoken": 93,
+      "total_spoken": 92,
       "sales": 9,
       "bad_data": 37,
-      "convertible_total": 47,
-      "payissue": 2,
+      "convertible_total": 46,
+      "payissue": 1,
       "freezspace": 0,
       "health": 0,
       "callback": 2,
@@ -1958,18 +1958,18 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-06-29",
-      "total_spoken": 57,
-      "sales": 11,
-      "bad_data": 21,
-      "convertible_total": 25,
+      "total_spoken": 67,
+      "sales": 15,
+      "bad_data": 24,
+      "convertible_total": 28,
       "payissue": 0,
       "freezspace": 0,
       "health": 0,
-      "callback": 8,
+      "callback": 9,
       "medifood": 0,
       "tooexp": 6,
       "fussy": 0,
-      "ni": 11
+      "ni": 13
     },
     {
       "agent_name": "Charlene Basbudak",
@@ -2070,18 +2070,18 @@
     {
       "agent_name": "Morris Christian",
       "period_start": "2026-06-29",
-      "total_spoken": 44,
-      "sales": 7,
-      "bad_data": 14,
-      "convertible_total": 23,
+      "total_spoken": 48,
+      "sales": 10,
+      "bad_data": 16,
+      "convertible_total": 22,
       "payissue": 0,
       "freezspace": 0,
       "health": 0,
-      "callback": 16,
+      "callback": 14,
       "medifood": 0,
       "tooexp": 4,
       "fussy": 0,
-      "ni": 3
+      "ni": 4
     },
     {
       "agent_name": "Terrence Ndukwe",
@@ -2344,11 +2344,11 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-06-01",
-      "total_spoken": 384,
+      "total_spoken": 383,
       "sales": 62,
       "bad_data": 163,
-      "convertible_total": 159,
-      "payissue": 2,
+      "convertible_total": 158,
+      "payissue": 1,
       "freezspace": 0,
       "health": 0,
       "callback": 12,
@@ -2552,18 +2552,18 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-07-01",
-      "total_spoken": 27,
-      "sales": 5,
-      "bad_data": 8,
-      "convertible_total": 14,
+      "total_spoken": 37,
+      "sales": 9,
+      "bad_data": 11,
+      "convertible_total": 17,
       "payissue": 0,
       "freezspace": 0,
       "health": 0,
-      "callback": 4,
+      "callback": 5,
       "medifood": 0,
       "tooexp": 6,
       "fussy": 0,
-      "ni": 4
+      "ni": 6
     },
     {
       "agent_name": "Charlene Basbudak",
@@ -2664,18 +2664,18 @@
     {
       "agent_name": "Morris Christian",
       "period_start": "2026-07-01",
-      "total_spoken": 25,
-      "sales": 2,
-      "bad_data": 7,
-      "convertible_total": 16,
+      "total_spoken": 29,
+      "sales": 5,
+      "bad_data": 9,
+      "convertible_total": 15,
       "payissue": 0,
       "freezspace": 0,
       "health": 0,
-      "callback": 11,
+      "callback": 9,
       "medifood": 0,
       "tooexp": 3,
       "fussy": 0,
-      "ni": 2
+      "ni": 3
     },
     {
       "agent_name": "Terrence Ndukwe",
@@ -4106,11 +4106,11 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-06-22",
-      "total_spoken": 59,
+      "total_spoken": 58,
       "sales": 7,
       "bad_data": 19,
-      "convertible_total": 33,
-      "payissue": 1,
+      "convertible_total": 32,
+      "payissue": 0,
       "freezspace": 0,
       "health": 0,
       "callback": 1,
@@ -4250,18 +4250,18 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-06-29",
-      "total_spoken": 148,
-      "sales": 18,
-      "bad_data": 57,
-      "convertible_total": 73,
+      "total_spoken": 158,
+      "sales": 22,
+      "bad_data": 60,
+      "convertible_total": 76,
       "payissue": 1,
       "freezspace": 0,
       "health": 0,
-      "callback": 11,
+      "callback": 12,
       "medifood": 1,
       "tooexp": 14,
       "fussy": 0,
-      "ni": 46
+      "ni": 48
     },
     {
       "agent_name": "Charlene Basbudak",
@@ -4362,18 +4362,18 @@
     {
       "agent_name": "Morris Christian",
       "period_start": "2026-06-29",
-      "total_spoken": 131,
-      "sales": 19,
-      "bad_data": 52,
-      "convertible_total": 60,
+      "total_spoken": 135,
+      "sales": 22,
+      "bad_data": 54,
+      "convertible_total": 59,
       "payissue": 0,
       "freezspace": 0,
       "health": 1,
-      "callback": 32,
+      "callback": 30,
       "medifood": 1,
       "tooexp": 9,
       "fussy": 0,
-      "ni": 17
+      "ni": 18
     },
     {
       "agent_name": "Terrence Ndukwe",
@@ -4540,11 +4540,11 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-06-01",
-      "total_spoken": 454,
+      "total_spoken": 453,
       "sales": 75,
       "bad_data": 186,
-      "convertible_total": 193,
-      "payissue": 2,
+      "convertible_total": 192,
+      "payissue": 1,
       "freezspace": 0,
       "health": 0,
       "callback": 8,
@@ -4780,18 +4780,18 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-07-01",
-      "total_spoken": 85,
-      "sales": 10,
-      "bad_data": 26,
-      "convertible_total": 49,
+      "total_spoken": 95,
+      "sales": 14,
+      "bad_data": 29,
+      "convertible_total": 52,
       "payissue": 0,
       "freezspace": 0,
       "health": 0,
-      "callback": 10,
+      "callback": 11,
       "medifood": 1,
       "tooexp": 11,
       "fussy": 0,
-      "ni": 27
+      "ni": 29
     },
     {
       "agent_name": "Charlene Basbudak",
@@ -4892,18 +4892,18 @@
     {
       "agent_name": "Morris Christian",
       "period_start": "2026-07-01",
-      "total_spoken": 80,
-      "sales": 8,
-      "bad_data": 35,
-      "convertible_total": 37,
+      "total_spoken": 84,
+      "sales": 11,
+      "bad_data": 37,
+      "convertible_total": 36,
       "payissue": 0,
       "freezspace": 0,
       "health": 0,
-      "callback": 24,
+      "callback": 22,
       "medifood": 0,
       "tooexp": 4,
       "fussy": 0,
-      "ni": 9
+      "ni": 10
     },
     {
       "agent_name": "Terrence Ndukwe",
@@ -4925,10 +4925,10 @@
   "list_summary": [
     {
       "list_id": 804,
-      "total_spoken": 6419,
-      "sales": 1383,
-      "bad_data": 2173,
-      "convertible_total": 2863
+      "total_spoken": 6430,
+      "sales": 1390,
+      "bad_data": 2178,
+      "convertible_total": 2862
     },
     {
       "list_id": 805,
@@ -4967,10 +4967,10 @@
     },
     {
       "list_id": 1013,
-      "total_spoken": 1265,
+      "total_spoken": 1267,
       "sales": 173,
       "bad_data": 469,
-      "convertible_total": 623
+      "convertible_total": 625
     }
   ],
   "list_weekly": [
@@ -5409,10 +5409,10 @@
     {
       "list_id": 804,
       "period_start": "2026-06-22",
-      "total_spoken": 626,
+      "total_spoken": 625,
       "sales": 115,
       "bad_data": 195,
-      "convertible_total": 316
+      "convertible_total": 315
     },
     {
       "list_id": 805,
@@ -5441,9 +5441,9 @@
     {
       "list_id": 804,
       "period_start": "2026-06-29",
-      "total_spoken": 834,
-      "sales": 146,
-      "bad_data": 241,
+      "total_spoken": 846,
+      "sales": 153,
+      "bad_data": 246,
       "convertible_total": 447
     },
     {
@@ -5465,33 +5465,33 @@
     {
       "list_id": 1013,
       "period_start": "2026-06-29",
-      "total_spoken": 120,
+      "total_spoken": 122,
       "sales": 18,
       "bad_data": 42,
-      "convertible_total": 60
+      "convertible_total": 62
     }
   ],
   "list_penetration": [
     {
       "list_id": "804",
-      "total_leads": 20818,
-      "spoken_to": 6434,
-      "not_spoken": 13630,
-      "na": 754
+      "total_leads": 21080,
+      "spoken_to": 6445,
+      "not_spoken": 13742,
+      "na": 893
     },
     {
       "list_id": "1013",
-      "total_leads": 4435,
-      "spoken_to": 1269,
-      "not_spoken": 2993,
-      "na": 173
+      "total_leads": 4490,
+      "spoken_to": 1271,
+      "not_spoken": 3002,
+      "na": 217
     },
     {
       "list_id": "805",
-      "total_leads": 1416,
+      "total_leads": 1418,
       "spoken_to": 432,
-      "not_spoken": 931,
-      "na": 53
+      "not_spoken": 932,
+      "na": 54
     },
     {
       "list_id": "882",
@@ -6015,9 +6015,9 @@
       "list_id": "804",
       "period_start": "2026-06-22",
       "total_leads": 1926,
-      "spoken_to": 622,
-      "not_spoken": 1238,
-      "na": 66
+      "spoken_to": 621,
+      "not_spoken": 1236,
+      "na": 69
     },
     {
       "list_id": "805",
@@ -6038,26 +6038,26 @@
     {
       "list_id": "1013",
       "period_start": "2026-06-29",
-      "total_leads": 280,
-      "spoken_to": 43,
-      "not_spoken": 219,
-      "na": 18
+      "total_leads": 335,
+      "spoken_to": 45,
+      "not_spoken": 228,
+      "na": 62
     },
     {
       "list_id": "804",
       "period_start": "2026-06-29",
-      "total_leads": 1360,
-      "spoken_to": 362,
-      "not_spoken": 855,
-      "na": 143
+      "total_leads": 1622,
+      "spoken_to": 374,
+      "not_spoken": 969,
+      "na": 279
     },
     {
       "list_id": "805",
       "period_start": "2026-06-29",
-      "total_leads": 60,
+      "total_leads": 62,
       "spoken_to": 18,
-      "not_spoken": 36,
-      "na": 6
+      "not_spoken": 37,
+      "na": 7
     },
     {
       "list_id": "882",
@@ -6145,9 +6145,9 @@
       "list_id": "804",
       "period_start": "2026-06-01",
       "total_leads": 7979,
-      "spoken_to": 2449,
-      "not_spoken": 5295,
-      "na": 235
+      "spoken_to": 2448,
+      "not_spoken": 5292,
+      "na": 239
     },
     {
       "list_id": "805",
@@ -6184,26 +6184,26 @@
     {
       "list_id": "1013",
       "period_start": "2026-07-01",
-      "total_leads": 149,
-      "spoken_to": 14,
-      "not_spoken": 118,
-      "na": 17
+      "total_leads": 204,
+      "spoken_to": 16,
+      "not_spoken": 127,
+      "na": 61
     },
     {
       "list_id": "804",
       "period_start": "2026-07-01",
-      "total_leads": 775,
-      "spoken_to": 179,
-      "not_spoken": 473,
-      "na": 123
+      "total_leads": 1037,
+      "spoken_to": 191,
+      "not_spoken": 588,
+      "na": 258
     },
     {
       "list_id": "805",
       "period_start": "2026-07-01",
-      "total_leads": 25,
+      "total_leads": 27,
       "spoken_to": 8,
-      "not_spoken": 15,
-      "na": 2
+      "not_spoken": 16,
+      "na": 3
     },
     {
       "list_id": "882",
