@@ -1,152 +1,8 @@
 {
-  "last_updated": "2026-07-12T11:09:35Z",
-  "period_start": "2026-04-12",
-  "period_end": "2026-07-12",
+  "last_updated": "2026-07-13T12:31:40Z",
+  "period_start": "2026-04-13",
+  "period_end": "2026-07-13",
   "weekly": [
-    {
-      "agent_name": "Braden Lee",
-      "period_start": "2026-04-13",
-      "total_spoken": 48,
-      "sales": 14,
-      "bad_data": 17,
-      "convertible_total": 17,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 17
-    },
-    {
-      "agent_name": "Charlene Basbudak",
-      "period_start": "2026-04-13",
-      "total_spoken": 66,
-      "sales": 21,
-      "bad_data": 8,
-      "convertible_total": 37,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 1,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 1,
-      "fussy": 0,
-      "ni": 35
-    },
-    {
-      "agent_name": "Cian Rees",
-      "period_start": "2026-04-13",
-      "total_spoken": 8,
-      "sales": 4,
-      "bad_data": 3,
-      "convertible_total": 1,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 1
-    },
-    {
-      "agent_name": "Clementine Drake",
-      "period_start": "2026-04-13",
-      "total_spoken": 17,
-      "sales": 8,
-      "bad_data": 6,
-      "convertible_total": 3,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 3
-    },
-    {
-      "agent_name": "Donna Wallington",
-      "period_start": "2026-04-13",
-      "total_spoken": 72,
-      "sales": 17,
-      "bad_data": 28,
-      "convertible_total": 27,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 27
-    },
-    {
-      "agent_name": "Franco Leto",
-      "period_start": "2026-04-13",
-      "total_spoken": 80,
-      "sales": 20,
-      "bad_data": 30,
-      "convertible_total": 30,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 30
-    },
-    {
-      "agent_name": "Jacob Jackson",
-      "period_start": "2026-04-13",
-      "total_spoken": 2,
-      "sales": 0,
-      "bad_data": 0,
-      "convertible_total": 2,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 1,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 1
-    },
-    {
-      "agent_name": "Morris Christian",
-      "period_start": "2026-04-13",
-      "total_spoken": 71,
-      "sales": 14,
-      "bad_data": 40,
-      "convertible_total": 17,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 6,
-      "medifood": 1,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 10
-    },
-    {
-      "agent_name": "Terrence Ndukwe",
-      "period_start": "2026-04-13",
-      "total_spoken": 111,
-      "sales": 18,
-      "bad_data": 37,
-      "convertible_total": 56,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 3,
-      "medifood": 0,
-      "tooexp": 3,
-      "fussy": 1,
-      "ni": 49
-    },
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-04-20",
@@ -1846,14 +1702,14 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-06-29",
-      "total_spoken": 73,
+      "total_spoken": 72,
       "sales": 11,
       "bad_data": 25,
-      "convertible_total": 37,
+      "convertible_total": 36,
       "payissue": 0,
       "freezspace": 0,
       "health": 1,
-      "callback": 25,
+      "callback": 24,
       "medifood": 1,
       "tooexp": 2,
       "fussy": 0,
@@ -1958,8 +1814,8 @@
     {
       "agent_name": "Donna Wallington",
       "period_start": "2026-07-06",
-      "total_spoken": 60,
-      "sales": 17,
+      "total_spoken": 59,
+      "sales": 16,
       "bad_data": 8,
       "convertible_total": 35,
       "payissue": 7,
@@ -1990,9 +1846,9 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-07-06",
-      "total_spoken": 38,
-      "sales": 9,
-      "bad_data": 9,
+      "total_spoken": 40,
+      "sales": 10,
+      "bad_data": 10,
       "convertible_total": 20,
       "payissue": 0,
       "freezspace": 0,
@@ -2392,14 +2248,14 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-06-01",
-      "total_spoken": 134,
+      "total_spoken": 133,
       "sales": 28,
       "bad_data": 44,
-      "convertible_total": 62,
+      "convertible_total": 61,
       "payissue": 0,
       "freezspace": 0,
       "health": 1,
-      "callback": 24,
+      "callback": 23,
       "medifood": 0,
       "tooexp": 14,
       "fussy": 0,
@@ -2536,8 +2392,8 @@
     {
       "agent_name": "Donna Wallington",
       "period_start": "2026-07-01",
-      "total_spoken": 110,
-      "sales": 28,
+      "total_spoken": 109,
+      "sales": 27,
       "bad_data": 19,
       "convertible_total": 63,
       "payissue": 11,
@@ -2568,9 +2424,9 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-07-01",
-      "total_spoken": 89,
-      "sales": 18,
-      "bad_data": 28,
+      "total_spoken": 91,
+      "sales": 19,
+      "bad_data": 29,
       "convertible_total": 43,
       "payissue": 0,
       "freezspace": 0,
@@ -2631,134 +2487,6 @@
     }
   ],
   "weekly_last_call": [
-    {
-      "agent_name": "Braden Lee",
-      "period_start": "2026-04-13",
-      "total_spoken": 91,
-      "sales": 23,
-      "bad_data": 30,
-      "convertible_total": 38,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 38
-    },
-    {
-      "agent_name": "Charlene Basbudak",
-      "period_start": "2026-04-13",
-      "total_spoken": 87,
-      "sales": 23,
-      "bad_data": 15,
-      "convertible_total": 49,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 1,
-      "fussy": 0,
-      "ni": 48
-    },
-    {
-      "agent_name": "Donna Wallington",
-      "period_start": "2026-04-13",
-      "total_spoken": 72,
-      "sales": 21,
-      "bad_data": 23,
-      "convertible_total": 28,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 28
-    },
-    {
-      "agent_name": "Franco Leto",
-      "period_start": "2026-04-13",
-      "total_spoken": 69,
-      "sales": 18,
-      "bad_data": 29,
-      "convertible_total": 22,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 22
-    },
-    {
-      "agent_name": "Karl Bovis",
-      "period_start": "2026-04-13",
-      "total_spoken": 1,
-      "sales": 0,
-      "bad_data": 0,
-      "convertible_total": 1,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 1
-    },
-    {
-      "agent_name": "Matthew Gregory",
-      "period_start": "2026-04-13",
-      "total_spoken": 1,
-      "sales": 0,
-      "bad_data": 0,
-      "convertible_total": 1,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 1
-    },
-    {
-      "agent_name": "Morris Christian",
-      "period_start": "2026-04-13",
-      "total_spoken": 77,
-      "sales": 16,
-      "bad_data": 39,
-      "convertible_total": 22,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 8,
-      "medifood": 1,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 13
-    },
-    {
-      "agent_name": "Terrence Ndukwe",
-      "period_start": "2026-04-13",
-      "total_spoken": 121,
-      "sales": 24,
-      "bad_data": 38,
-      "convertible_total": 59,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 4,
-      "medifood": 0,
-      "tooexp": 3,
-      "fussy": 0,
-      "ni": 52
-    },
     {
       "agent_name": "Charlene Basbudak",
       "period_start": "2026-04-20",
@@ -4170,14 +3898,14 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-06-29",
-      "total_spoken": 85,
+      "total_spoken": 84,
       "sales": 16,
       "bad_data": 33,
-      "convertible_total": 36,
+      "convertible_total": 35,
       "payissue": 0,
       "freezspace": 0,
       "health": 0,
-      "callback": 15,
+      "callback": 14,
       "medifood": 0,
       "tooexp": 8,
       "fussy": 0,
@@ -4282,8 +4010,8 @@
     {
       "agent_name": "Donna Wallington",
       "period_start": "2026-07-06",
-      "total_spoken": 112,
-      "sales": 25,
+      "total_spoken": 111,
+      "sales": 24,
       "bad_data": 18,
       "convertible_total": 69,
       "payissue": 9,
@@ -4314,9 +4042,9 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-07-06",
-      "total_spoken": 87,
-      "sales": 18,
-      "bad_data": 21,
+      "total_spoken": 89,
+      "sales": 19,
+      "bad_data": 22,
       "convertible_total": 48,
       "payissue": 0,
       "freezspace": 0,
@@ -4636,14 +4364,14 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-06-01",
-      "total_spoken": 86,
+      "total_spoken": 85,
       "sales": 21,
       "bad_data": 36,
-      "convertible_total": 29,
+      "convertible_total": 28,
       "payissue": 0,
       "freezspace": 0,
       "health": 1,
-      "callback": 11,
+      "callback": 10,
       "medifood": 0,
       "tooexp": 6,
       "fussy": 0,
@@ -4796,8 +4524,8 @@
     {
       "agent_name": "Donna Wallington",
       "period_start": "2026-07-01",
-      "total_spoken": 171,
-      "sales": 34,
+      "total_spoken": 170,
+      "sales": 33,
       "bad_data": 32,
       "convertible_total": 105,
       "payissue": 19,
@@ -4828,9 +4556,9 @@
     {
       "agent_name": "Ilyas Chentouf",
       "period_start": "2026-07-01",
-      "total_spoken": 143,
-      "sales": 26,
-      "bad_data": 39,
+      "total_spoken": 145,
+      "sales": 27,
+      "bad_data": 40,
       "convertible_total": 78,
       "payissue": 0,
       "freezspace": 0,
@@ -4895,8 +4623,8 @@
       "list_id": 804,
       "total_spoken": 6932,
       "sales": 1517,
-      "bad_data": 2358,
-      "convertible_total": 3057
+      "bad_data": 2359,
+      "convertible_total": 3056
     },
     {
       "list_id": 805,
@@ -4942,38 +4670,6 @@
     }
   ],
   "list_weekly": [
-    {
-      "list_id": 804,
-      "period_start": "2026-04-13",
-      "total_spoken": 456,
-      "sales": 113,
-      "bad_data": 146,
-      "convertible_total": 197
-    },
-    {
-      "list_id": 805,
-      "period_start": "2026-04-13",
-      "total_spoken": 40,
-      "sales": 12,
-      "bad_data": 14,
-      "convertible_total": 14
-    },
-    {
-      "list_id": 882,
-      "period_start": "2026-04-13",
-      "total_spoken": 18,
-      "sales": 0,
-      "bad_data": 9,
-      "convertible_total": 9
-    },
-    {
-      "list_id": 962,
-      "period_start": "2026-04-13",
-      "total_spoken": 5,
-      "sales": 0,
-      "bad_data": 5,
-      "convertible_total": 0
-    },
     {
       "list_id": 804,
       "period_start": "2026-04-20",
@@ -5369,10 +5065,10 @@
     {
       "list_id": 804,
       "period_start": "2026-06-29",
-      "total_spoken": 770,
+      "total_spoken": 769,
       "sales": 153,
       "bad_data": 247,
-      "convertible_total": 370
+      "convertible_total": 369
     },
     {
       "list_id": 805,
@@ -5401,9 +5097,9 @@
     {
       "list_id": 804,
       "period_start": "2026-07-06",
-      "total_spoken": 608,
+      "total_spoken": 609,
       "sales": 128,
-      "bad_data": 180,
+      "bad_data": 181,
       "convertible_total": 300
     },
     {
@@ -5434,24 +5130,24 @@
   "list_penetration": [
     {
       "list_id": "804",
-      "total_leads": 22721,
+      "total_leads": 22997,
       "spoken_to": 6948,
-      "not_spoken": 14772,
-      "na": 1001
+      "not_spoken": 14773,
+      "na": 1276
     },
     {
       "list_id": "1013",
-      "total_leads": 4813,
+      "total_leads": 4883,
       "spoken_to": 1386,
-      "not_spoken": 3195,
-      "na": 232
+      "not_spoken": 3194,
+      "na": 303
     },
     {
       "list_id": "805",
-      "total_leads": 1680,
+      "total_leads": 1704,
       "spoken_to": 504,
-      "not_spoken": 1085,
-      "na": 91
+      "not_spoken": 1091,
+      "na": 109
     },
     {
       "list_id": "882",
@@ -5483,46 +5179,6 @@
     }
   ],
   "penetration_weekly": [
-    {
-      "list_id": "1013",
-      "period_start": "2026-04-13",
-      "total_leads": 1,
-      "spoken_to": 1,
-      "not_spoken": 0,
-      "na": 0
-    },
-    {
-      "list_id": "804",
-      "period_start": "2026-04-13",
-      "total_leads": 1235,
-      "spoken_to": 396,
-      "not_spoken": 809,
-      "na": 30
-    },
-    {
-      "list_id": "805",
-      "period_start": "2026-04-13",
-      "total_leads": 145,
-      "spoken_to": 49,
-      "not_spoken": 93,
-      "na": 3
-    },
-    {
-      "list_id": "882",
-      "period_start": "2026-04-13",
-      "total_leads": 49,
-      "spoken_to": 28,
-      "not_spoken": 18,
-      "na": 3
-    },
-    {
-      "list_id": "901",
-      "period_start": "2026-04-13",
-      "total_leads": 2,
-      "spoken_to": 1,
-      "not_spoken": 1,
-      "na": 0
-    },
     {
       "list_id": "1013",
       "period_start": "2026-04-20",
@@ -5936,8 +5592,8 @@
       "period_start": "2026-06-22",
       "total_leads": 1926,
       "spoken_to": 630,
-      "not_spoken": 1251,
-      "na": 45
+      "not_spoken": 1249,
+      "na": 47
     },
     {
       "list_id": "805",
@@ -5960,16 +5616,16 @@
       "period_start": "2026-06-29",
       "total_leads": 380,
       "spoken_to": 101,
-      "not_spoken": 270,
-      "na": 9
+      "not_spoken": 269,
+      "na": 10
     },
     {
       "list_id": "804",
       "period_start": "2026-06-29",
       "total_leads": 1856,
-      "spoken_to": 603,
+      "spoken_to": 602,
       "not_spoken": 1206,
-      "na": 47
+      "na": 48
     },
     {
       "list_id": "805",
@@ -5998,26 +5654,26 @@
     {
       "list_id": "1013",
       "period_start": "2026-07-06",
-      "total_leads": 278,
+      "total_leads": 341,
       "spoken_to": 56,
       "not_spoken": 160,
-      "na": 62
+      "na": 125
     },
     {
       "list_id": "804",
       "period_start": "2026-07-06",
-      "total_leads": 1407,
-      "spoken_to": 278,
-      "not_spoken": 770,
-      "na": 359
+      "total_leads": 1662,
+      "spoken_to": 279,
+      "not_spoken": 773,
+      "na": 610
     },
     {
       "list_id": "805",
       "period_start": "2026-07-06",
-      "total_leads": 232,
+      "total_leads": 252,
       "spoken_to": 53,
-      "not_spoken": 133,
-      "na": 46
+      "not_spoken": 139,
+      "na": 60
     },
     {
       "list_id": "882",
@@ -6034,6 +5690,30 @@
       "spoken_to": 0,
       "not_spoken": 1,
       "na": 0
+    },
+    {
+      "list_id": "1013",
+      "period_start": "2026-07-13",
+      "total_leads": 7,
+      "spoken_to": 0,
+      "not_spoken": 0,
+      "na": 7
+    },
+    {
+      "list_id": "804",
+      "period_start": "2026-07-13",
+      "total_leads": 21,
+      "spoken_to": 0,
+      "not_spoken": 0,
+      "na": 21
+    },
+    {
+      "list_id": "805",
+      "period_start": "2026-07-13",
+      "total_leads": 4,
+      "spoken_to": 0,
+      "not_spoken": 0,
+      "na": 4
     }
   ],
   "penetration_monthly": [
@@ -6105,9 +5785,9 @@
       "list_id": "804",
       "period_start": "2026-06-01",
       "total_leads": 7979,
-      "spoken_to": 2470,
-      "not_spoken": 5297,
-      "na": 212
+      "spoken_to": 2469,
+      "not_spoken": 5295,
+      "na": 215
     },
     {
       "list_id": "805",
@@ -6144,26 +5824,26 @@
     {
       "list_id": "1013",
       "period_start": "2026-07-01",
-      "total_leads": 527,
+      "total_leads": 597,
       "spoken_to": 123,
-      "not_spoken": 335,
-      "na": 69
+      "not_spoken": 334,
+      "na": 140
     },
     {
       "list_id": "804",
       "period_start": "2026-07-01",
-      "total_leads": 2678,
-      "spoken_to": 674,
-      "not_spoken": 1611,
-      "na": 393
+      "total_leads": 2954,
+      "spoken_to": 675,
+      "not_spoken": 1614,
+      "na": 665
     },
     {
       "list_id": "805",
       "period_start": "2026-07-01",
-      "total_leads": 289,
+      "total_leads": 313,
       "spoken_to": 76,
-      "not_spoken": 166,
-      "na": 47
+      "not_spoken": 172,
+      "na": 65
     },
     {
       "list_id": "882",
