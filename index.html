@@ -63,7 +63,7 @@ body {
 }
 .period-toggle {
   display: flex;
-  background: rgba(69,18,25,0.1);
+  background: rgba(82,42,16,0.1);
   border-radius: 8px;
   padding: 3px;
 }
@@ -82,14 +82,14 @@ body {
 .period-toggle button.active {
   background: #fff;
   color: var(--bb-berry);
-  box-shadow: 0 1px 3px rgba(69,18,25,0.15);
+  box-shadow: 0 1px 3px rgba(82,42,16,0.15);
 }
 .nav-tabs {
   background: #fff;
   display: flex;
   gap: 0;
   padding: 0 32px;
-  border-bottom: 1px solid rgba(69,18,25,0.1);
+  border-bottom: 1px solid rgba(82,42,16,0.1);
   overflow-x: auto;
 }
 .nav-tabs button {
@@ -127,7 +127,7 @@ body {
   background: #fff;
   border-radius: 12px;
   padding: 20px 24px;
-  box-shadow: 0 1px 3px rgba(69,18,25,0.08);
+  box-shadow: 0 1px 3px rgba(82,42,16,0.08);
   border-left: 4px solid var(--bb-gold);
 }
 .kpi-card .kpi-label {
@@ -154,7 +154,7 @@ body {
   background: #fff;
   border-radius: 12px;
   padding: 24px;
-  box-shadow: 0 1px 3px rgba(69,18,25,0.08);
+  box-shadow: 0 1px 3px rgba(82,42,16,0.08);
   margin-bottom: 24px;
 }
 .chart-container h3 {
@@ -178,7 +178,7 @@ body {
   background: #fff;
   border-radius: 12px;
   padding: 20px 24px;
-  box-shadow: 0 1px 3px rgba(69,18,25,0.08);
+  box-shadow: 0 1px 3px rgba(82,42,16,0.08);
 }
 .performer-card.good { border-left: 4px solid #2E7D32; }
 .performer-card.bad { border-left: 4px solid var(--bb-coral); }
@@ -196,7 +196,7 @@ body {
 .data-table-wrapper {
   background: #fff;
   border-radius: 12px;
-  box-shadow: 0 1px 3px rgba(69,18,25,0.08);
+  box-shadow: 0 1px 3px rgba(82,42,16,0.08);
   overflow: hidden;
   margin-bottom: 24px;
 }
@@ -217,7 +217,7 @@ th {
   color: var(--bb-brown);
   cursor: pointer;
 }
-td { padding: 10px 16px; border-bottom: 1px solid rgba(69,18,25,0.08); }
+td { padding: 10px 16px; border-bottom: 1px solid rgba(82,42,16,0.08); }
 tr:hover td { background: var(--bb-cream); }
 .good-row { background: rgba(46,125,50,0.05); }
 .bad-row { background: rgba(237,105,97,0.05); }
@@ -225,7 +225,7 @@ tr:hover td { background: var(--bb-cream); }
   background: #fff;
   border-radius: 12px;
   padding: 20px 24px;
-  box-shadow: 0 1px 3px rgba(69,18,25,0.08);
+  box-shadow: 0 1px 3px rgba(82,42,16,0.08);
   margin-bottom: 24px;
 }
 .agent-picker-container h4 {
@@ -242,7 +242,7 @@ tr:hover td { background: var(--bb-cream); }
   gap: 6px;
   padding: 5px 12px;
   background: var(--bb-cream);
-  border: 1px solid rgba(69,18,25,0.1);
+  border: 1px solid rgba(82,42,16,0.1);
   border-radius: 8px;
   cursor: pointer;
   font-size: 12px;
@@ -256,7 +256,7 @@ tr:hover td { background: var(--bb-cream); }
 .picker-actions { margin-top: 10px; display: flex; gap: 8px; }
 .picker-actions button {
   padding: 4px 12px;
-  border: 1px solid rgba(69,18,25,0.15);
+  border: 1px solid rgba(82,42,16,0.15);
   background: #fff;
   border-radius: 6px;
   font-size: 11px;
@@ -269,7 +269,7 @@ tr:hover td { background: var(--bb-cream); }
 .view-toggle-bar { display: flex; align-items: center; gap: 12px; margin-bottom: 20px; }
 .view-toggle {
   display: flex;
-  background: rgba(69,18,25,0.06);
+  background: rgba(82,42,16,0.06);
   border-radius: 8px;
   padding: 3px;
 }
@@ -285,10 +285,10 @@ tr:hover td { background: var(--bb-cream); }
   border-radius: 6px;
   transition: all 0.2s;
 }
-.view-toggle button.active { background: #fff; color: var(--bb-berry); box-shadow: 0 1px 3px rgba(69,18,25,0.1); }
+.view-toggle button.active { background: #fff; color: var(--bb-berry); box-shadow: 0 1px 3px rgba(82,42,16,0.1); }
 .agent-dropdown {
   padding: 6px 12px;
-  border: 1px solid rgba(69,18,25,0.15);
+  border: 1px solid rgba(82,42,16,0.15);
   border-radius: 8px;
   font-family: 'Bricolage Grotesque', sans-serif;
   font-size: 13px;
@@ -299,7 +299,7 @@ tr:hover td { background: var(--bb-cream); }
 .trend-table-wrapper {
   background: #fff;
   border-radius: 12px;
-  box-shadow: 0 1px 3px rgba(69,18,25,0.08);
+  box-shadow: 0 1px 3px rgba(82,42,16,0.08);
   overflow: hidden;
   margin-bottom: 24px;
 }
@@ -312,6 +312,40 @@ tr:hover td { background: var(--bb-cream); }
 .table-scroll { overflow-x: auto; padding: 0 0 8px; }
 .table-scroll table { min-width: 800px; }
 .min-vol-note { font-size: 11px; color: var(--bb-brown-light); font-style: italic; margin-bottom: 16px; }
+/* --- Talk Time QA tab styles --- */
+.sub-nav { display: flex; gap: 4px; margin-bottom: 20px; background: rgba(82,42,16,0.06); border-radius: 10px; padding: 4px; overflow-x: auto; }
+.sub-nav button { padding: 8px 16px; border: none; background: transparent; font-family: 'Bricolage Grotesque', sans-serif; font-size: 13px; font-weight: 600; color: var(--bb-brown-light); cursor: pointer; border-radius: 6px; transition: all 0.15s; white-space: nowrap; }
+.sub-nav button:hover { color: var(--bb-brown); }
+.sub-nav button.active { background: #fff; color: var(--bb-berry); box-shadow: 0 1px 3px rgba(82,42,16,0.12); }
+.sub-panel { display: none; }
+.sub-panel.active { display: block; }
+.heatmap-scroll { overflow: auto; }
+.heatmap-table { border-collapse: collapse; font-size: 11px; margin: 0 24px 24px; }
+.heatmap-table th, .heatmap-table td { padding: 6px 8px; text-align: center; border: 1px solid rgba(82,42,16,0.06); min-width: 60px; white-space: nowrap; }
+.heatmap-table thead th { position: sticky; top: 0; background: #fff; z-index: 5; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 600; color: var(--bb-brown); font-size: 10px; border-bottom: 2px solid var(--bb-brown); }
+.heatmap-table tbody th.agent-cell { position: sticky; left: 0; background: #fff; z-index: 4; text-align: left; padding-right: 12px; font-weight: 600; color: var(--bb-brown); border-right: 2px solid var(--bb-brown); min-width: 140px; }
+.heatmap-table td.empty { color: rgba(82,42,16,0.25); background: #fafafa; }
+.heatmap-table td.qa-cell { font-weight: 600; color: var(--bb-brown); }
+.heatmap-table td.qa-cell .cnt { font-size: 9px; font-weight: 400; color: var(--bb-brown-light); display: block; margin-top: 1px; }
+.qa-flag-badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 10px; font-weight: 700; font-family: 'Bricolage Grotesque', sans-serif; text-transform: uppercase; letter-spacing: 0.5px; }
+.qa-flag-badge.hangup, .qa-flag-badge.skew-high { background: rgba(237,105,97,0.12); color: var(--bb-coral); }
+.qa-flag-badge.skew-low { background: rgba(155,195,254,0.25); color: var(--bb-navy); }
+.qa-flag-badge.clean { background: rgba(82,42,16,0.06); color: var(--bb-brown-light); }
+.qa-link { display: inline-block; padding: 3px 10px; background: var(--bb-cream); color: var(--bb-brown); border-radius: 6px; text-decoration: none; font-size: 11px; font-family: 'Bricolage Grotesque', sans-serif; font-weight: 600; border: 1px solid rgba(82,42,16,0.15); }
+.qa-link:hover { border-color: var(--bb-berry); color: var(--bb-berry); background: #fff; }
+.qa-drilldown-row { background: rgba(255,246,216,0.5); }
+.qa-drilldown-row td { padding: 14px 20px; }
+.qa-drilldown-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 8px; }
+.qa-drilldown-item { display: flex; justify-content: space-between; align-items: center; padding: 6px 10px; background: #fff; border-radius: 6px; border: 1px solid rgba(82,42,16,0.08); font-size: 11px; }
+.qa-drilldown-item .talk { font-weight: 700; color: var(--bb-brown); }
+.qa-expand-btn { background: none; border: 1px solid rgba(82,42,16,0.2); cursor: pointer; color: var(--bb-berry); font-size: 14px; font-weight: 700; padding: 0 8px; font-family: 'Bricolage Grotesque', sans-serif; border-radius: 4px; min-width: 28px; }
+.qa-expand-btn:hover { border-color: var(--bb-berry); background: var(--bb-cream); }
+.qa-info-banner { background: rgba(255,225,128,0.4); border-left: 3px solid var(--bb-gold); padding: 12px 16px; border-radius: 4px; margin-bottom: 20px; font-size: 12px; color: var(--bb-brown); line-height: 1.5; }
+.qa-metric-strip { display: flex; gap: 12px; flex-wrap: wrap; margin-bottom: 20px; }
+.qa-metric-tile { flex: 1; min-width: 140px; background: #fff; padding: 14px 18px; border-radius: 10px; box-shadow: 0 1px 3px rgba(82,42,16,0.08); }
+.qa-metric-tile .label { font-family: 'Bricolage Grotesque', sans-serif; font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; color: var(--bb-brown-light); }
+.qa-metric-tile .value { font-size: 22px; font-weight: 700; color: var(--bb-brown); margin-top: 4px; }
+.qa-metric-tile .value.warn { color: var(--bb-coral); }
 </style>
 </head>
 <body>
@@ -342,6 +376,7 @@ tr:hover td { background: var(--bb-cream); }
   <button data-tab="convertible" onclick="setTab('convertible')">Convertible Deep Dive</button>
   <button data-tab="listid" onclick="setTab('listid')">List ID Analysis</button>
   <button data-tab="penetration" onclick="setTab('penetration')">Penetration Data</button>
+  <button data-tab="qa" onclick="setTab('qa')">Talk Time QA</button>
 </div>
 
 <div class="main-content">
@@ -439,7 +474,7 @@ tr:hover td { background: var(--bb-cream); }
 
   <div class="tab-panel" id="tab-listid">
     <div class="view-toggle-bar">
-      <label style="font-family:'IBM Plex Sans Condensed',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Select List ID:</label>
+      <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Select List ID:</label>
       <select class="agent-dropdown" id="listIdSelect" onchange="renderListTab()"></select>
     </div>
     <div class="kpi-row" id="listKpiRow"></div>
@@ -468,7 +503,7 @@ tr:hover td { background: var(--bb-cream); }
 
   <div class="tab-panel" id="tab-penetration">
     <div class="view-toggle-bar">
-      <label style="font-family:'IBM Plex Sans Condensed',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Select List:</label>
+      <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Select List:</label>
       <select class="agent-dropdown" id="penListSelect" onchange="renderPenTab()">
         <option value="ALL">All Lists</option>
       </select>
@@ -508,13 +543,195 @@ tr:hover td { background: var(--bb-cream); }
       </div>
     </div>
   </div>
+
+  <div class="tab-panel" id="tab-qa">
+    <div class="qa-info-banner">
+      <strong>Talk Time QA (Marro):</strong> Diagnose potential agent mis-dispositioning by comparing talk time patterns across Result Codes and Outcomes. Suspicious call rules: HANGUP, HUNGUP, AGAM, and FREEONLY all flag when talk time exceeds 60 seconds. Only calls with Talk Time &gt; 0 are included. Team baselines require 20+ calls of a given code. Skew flag = agent's average deviates &gt;25% from team average, with 5+ calls of that code. Click any record link to open the call in Airtable.
+    </div>
+    <div class="sub-nav" id="qaSubNav">
+      <button class="active" data-sub="team" onclick="setQaSubTab('team')">Team View</button>
+      <button data-sub="suspicious" onclick="setQaSubTab('suspicious')">Suspicious Calls</button>
+      <button data-sub="outcome" onclick="setQaSubTab('outcome')">Outcome Analysis</button>
+      <button data-sub="attempts" onclick="setQaSubTab('attempts')">Attempts Analysis</button>
+      <button data-sub="scorecard" onclick="setQaSubTab('scorecard')">Agent Deep Dive</button>
+    </div>
+
+    <div class="sub-panel active" id="sub-team">
+      <div class="qa-metric-strip" id="qaTeamMetricStrip"></div>
+      <div class="data-table-wrapper">
+        <h3>Talk Time Heatmap — Agent x Result Code (average seconds)</h3>
+        <p style="padding:0 24px 12px;color:var(--bb-brown-light);font-size:12px;">Darker = longer average talk time. Empty cell = no calls of that code by that agent. Small number under the average = call count.</p>
+        <div class="heatmap-scroll" style="max-height:600px;"><div id="qaHeatmap"></div></div>
+      </div>
+      <div class="data-table-wrapper">
+        <h3>Deviation from Team Median — Agent x Result Code (seconds)</h3>
+        <p style="padding:0 24px 12px;color:var(--bb-brown-light);font-size:12px;">Positive (red) = agent talks longer than team median for that code. Negative (blue) = shorter. Empty cell = fewer than 5 calls or no team baseline.</p>
+        <div class="heatmap-scroll" style="max-height:600px;"><div id="qaDeviation"></div></div>
+      </div>
+    </div>
+
+    <div class="sub-panel" id="sub-suspicious">
+      <div class="qa-metric-strip" id="qaSuspiciousMetricStrip"></div>
+      <p style="color:var(--bb-brown-light);font-size:12px;padding-bottom:10px;"><strong>Agent flags.</strong> Click a tile to filter both tables below to only that agent's flagged calls. Click "Clear filter" to reset.</p>
+      <div id="qaSuspTiles" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:10px;margin-bottom:16px;"></div>
+      <div id="qaSuspFilterBar" style="display:none;padding:10px 16px;background:rgba(255,225,128,0.4);border-radius:8px;margin-bottom:16px;font-size:13px;color:var(--bb-brown);align-items:center;">
+        <span id="qaSuspFilterLabel"></span>
+        <button onclick="clearSuspAgentFilter()" style="margin-left:12px;padding:3px 10px;border:1px solid rgba(82,42,16,0.2);background:#fff;border-radius:6px;font-size:11px;cursor:pointer;font-family:'Bricolage Grotesque',sans-serif;font-weight:600;color:var(--bb-berry);">Clear filter</button>
+      </div>
+      <div class="view-toggle-bar">
+        <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Sort by:</label>
+        <div class="view-toggle" id="qaSuspSortToggle">
+          <button class="active" data-sort="date" onclick="setSuspiciousSort('date')">Date of last call</button>
+          <button data-sort="agent" onclick="setSuspiciousSort('agent')">Agent</button>
+        </div>
+      </div>
+      <div class="data-table-wrapper">
+        <h3>HANGUP, HUNGUP, AGAM or FREEONLY calls with talk time over 60 seconds</h3>
+        <p style="padding:0 24px 12px;color:var(--bb-brown-light);font-size:12px;">Any call coded HANGUP, HUNGUP, AGAM or FREEONLY but with more than a minute of talk time. HUNGUP is a Marro-specific spelling variant. Masked phone shows the first 6 digits so you can cross-reference in the dialer log. Click "Open in Airtable" for the full record.</p>
+        <div class="table-scroll">
+          <table id="qaHangupTable">
+            <thead><tr>
+              <th>Date</th><th>Agent</th><th>Rule</th><th>Talk Time</th><th>Outcome</th><th>Phone (masked)</th><th>Record</th>
+            </tr></thead>
+            <tbody id="qaHangupBody"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="data-table-wrapper">
+        <h3>Skewed (Agent x Result Code) combos — 25%+ deviation from team, 5+ calls</h3>
+        <div style="padding:0 24px 12px;">
+          <div style="display:flex;align-items:center;gap:12px;flex-wrap:wrap;">
+            <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Result Outcome:</label>
+            <div class="view-toggle" id="qaSkewOutcomeToggle" style="flex-wrap:wrap;">
+              <button class="active" data-outcome="__all__" onclick="setSkewOutcomeFilter('__all__')">All</button>
+              <button data-outcome="Sale" onclick="setSkewOutcomeFilter('Sale')">Sale</button>
+              <button data-outcome="Convertible" onclick="setSkewOutcomeFilter('Convertible')">Convertible</button>
+              <button data-outcome="Bad Data" onclick="setSkewOutcomeFilter('Bad Data')">Bad Data</button>
+              <button data-outcome="Not Spoken" onclick="setSkewOutcomeFilter('Not Spoken')">Not Spoken</button>
+              <button data-outcome="N/A" onclick="setSkewOutcomeFilter('N/A')">N/A</button>
+            </div>
+          </div>
+        </div>
+        <p style="padding:0 24px 12px;color:var(--bb-brown-light);font-size:12px;">Combos flagged where the agent's average talk time is well above or below the team average for that code. Click Expand to see up to 50 individual calls with date, masked phone, and Airtable click-through.</p>
+        <div class="table-scroll">
+          <table id="qaSkewTable">
+            <thead><tr>
+              <th style="width:32px;"></th><th>Agent</th><th>Result Code</th><th>Outcome</th><th>Calls</th><th>Agent Avg</th><th>Team Avg</th><th>Deviation</th>
+            </tr></thead>
+            <tbody id="qaSkewBody"></tbody>
+          </table>
+        </div>
+      </div>
+    </div>
+
+    <div class="sub-panel" id="sub-outcome">
+      <div class="chart-container">
+        <h3>Average Talk Time by Outcome, per Agent</h3>
+        <div class="chart-wrapper" style="height:440px;"><canvas id="qaOutcomeBars"></canvas></div>
+      </div>
+      <div class="chart-container">
+        <h3>Efficiency Scatter — Avg Talk Time vs Sale %</h3>
+        <div class="qa-info-banner" style="margin: 0 24px 12px;">
+          <strong>How to read this chart.</strong> Each dot is one agent. X = their average talk time (seconds). Y = their Sale conversion rate. Bubble size = total call volume. Dashed lines = team medians, dividing the chart into four quadrants:
+          <br><strong>Top-left</strong> (short talk, high sale %): efficient closers.
+          <br><strong>Top-right</strong> (long talk, high sale %): consultative closers.
+          <br><strong>Bottom-left</strong> (short talk, low sale %): may be dispositioning too fast without qualifying.
+          <br><strong>Bottom-right</strong> (long talk, low sale %): talking a lot without closing. This is the quadrant to worry about.
+        </div>
+        <div class="chart-wrapper" style="height:480px;"><canvas id="qaEfficiencyScatter"></canvas></div>
+      </div>
+      <div class="chart-container">
+        <h3>Talk Time Distribution by Outcome</h3>
+        <div class="view-toggle-bar">
+          <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Agent:</label>
+          <select class="agent-dropdown" id="qaHistAgentSelect" onchange="renderQaOutcomeHistogram()"></select>
+        </div>
+        <div class="chart-wrapper" style="height:400px;"><canvas id="qaOutcomeHistogram"></canvas></div>
+      </div>
+      <div class="chart-container">
+        <h3>Conversion by Call Length</h3>
+        <p style="padding:0 24px 12px;color:var(--bb-brown-light);font-size:12px;">For each minute-long bucket, the value plotted is <strong>(Sale calls in that bucket) / (all calls in that bucket) × 100</strong>. So a value of 30% at "6-7 min" for an agent means 30% of the calls they took that lasted 6-7 minutes ended in a Sale. This is NOT their overall sale rate. Team average shown as a dashed line for reference.</p>
+        <div class="agent-picker-container" style="margin:0 24px 16px;">
+          <h4>Select Agents to Chart</h4>
+          <div class="agent-checkboxes" id="qaConvAgentPicker"></div>
+          <div class="picker-actions">
+            <button onclick="qaConvSelectTop5()">Top 5 by volume</button>
+            <button onclick="qaConvSelectAll()">Select All</button>
+            <button onclick="qaConvSelectNone()">Clear All</button>
+          </div>
+        </div>
+        <div class="chart-wrapper" style="height:440px;"><canvas id="qaConvByLength"></canvas></div>
+      </div>
+    </div>
+
+    <div class="sub-panel" id="sub-attempts">
+      <div class="chart-container">
+        <h3>Outcome distribution by attempt number (team)</h3>
+        <p style="padding:0 24px 12px;color:var(--bb-brown-light);font-size:12px;">How the outcome mix shifts as attempt count grows. Attempt 5+ heavy in Not Spoken / Bad Data is healthy — spikes elsewhere are worth checking.</p>
+        <div class="chart-wrapper" style="height:380px;"><canvas id="qaOutcomeByAttempt"></canvas></div>
+      </div>
+      <div class="chart-container">
+        <h3>Avg talk time by attempt, per agent (minutes)</h3>
+        <div class="view-toggle-bar">
+          <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Outcome:</label>
+          <select class="agent-dropdown" id="qaAttemptOutcomeSelect" onchange="renderQaAttemptsChart()">
+            <option value="Sale">Sale</option>
+            <option value="Convertible">Convertible</option>
+            <option value="Bad Data">Bad Data</option>
+            <option value="Not Spoken">Not Spoken</option>
+            <option value="N/A">N/A</option>
+          </select>
+        </div>
+        <div class="agent-picker-container" style="margin:0 24px 16px;">
+          <h4>Select Agents to Chart</h4>
+          <div class="agent-checkboxes" id="qaAttemptsAgentPicker"></div>
+          <div class="picker-actions">
+            <button onclick="qaAttemptsSelectTop5()">Top 5 by volume</button>
+            <button onclick="qaAttemptsSelectAll()">Select All</button>
+            <button onclick="qaAttemptsSelectNone()">Clear All</button>
+          </div>
+        </div>
+        <div class="chart-wrapper" style="height:440px;"><canvas id="qaAttemptsChart"></canvas></div>
+      </div>
+    </div>
+
+    <div class="sub-panel" id="sub-scorecard">
+      <div class="view-toggle-bar">
+        <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Agent:</label>
+        <select class="agent-dropdown" id="qaScorecardAgentSelect" onchange="renderQaScorecard()"></select>
+      </div>
+      <div class="qa-metric-strip" id="qaScorecardMetricStrip"></div>
+      <div class="data-table-wrapper">
+        <h3 id="qaScorecardHeader">Per-code talk time vs team</h3>
+        <div class="table-scroll">
+          <table id="qaScorecardTable">
+            <thead><tr>
+              <th>Result Code</th><th>Outcome</th><th>Calls</th><th>Agent Avg</th><th>Team Avg</th><th>Deviation</th><th>Suspicious?</th>
+            </tr></thead>
+            <tbody id="qaScorecardBody"></tbody>
+          </table>
+        </div>
+      </div>
+      <div class="chart-container">
+        <h3>Weekly talk time trend by code (this agent)</h3>
+        <div class="view-toggle-bar">
+          <label style="font-family:'Bricolage Grotesque',sans-serif;font-weight:600;font-size:13px;color:var(--bb-brown);">Result Code:</label>
+          <select class="agent-dropdown" id="qaScorecardCodeSelect" onchange="renderQaScorecardTrend()"></select>
+        </div>
+        <div class="chart-wrapper" style="height:380px;"><canvas id="qaScorecardTrendChart"></canvas></div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <script>
 var REAL_DATA = null;
 
 function loadData() {
-  return fetch('./data.json')
+  // Cache-buster: forces the browser to fetch a fresh copy of data.json on
+  // every page load. Without this, browsers happily reuse a cached copy from
+  // the previous day, which hides pipeline updates until the user hard-refreshes.
+  return fetch('./data.json?v=' + Date.now())
     .then(function(response) {
       if (!response.ok) throw new Error("HTTP " + response.status);
       return response.json();
@@ -526,7 +743,7 @@ function loadData() {
     .catch(function(err) {
       console.warn("Could not load data.json:", err.message);
       // Show a message if no data available
-      document.querySelector(".main-content").innerHTML = '<div style="text-align:center;padding:60px 20px;"><h2 style="color:var(--bb-brown);font-family:IBM Plex Sans Condensed,sans-serif;">Waiting for data</h2><p style="color:var(--bb-brown-light);margin-top:12px;">Run GitHub Actions to generate data.json, or place data.json in the same directory.</p></div>';
+      document.querySelector(".main-content").innerHTML = '<div style="text-align:center;padding:60px 20px;"><h2 style="color:var(--bb-brown);font-family:Bricolage Grotesque,sans-serif;">Waiting for data</h2><p style="color:var(--bb-brown-light);margin-top:12px;">Run GitHub Actions to generate data.json, or place data.json in the same directory.</p></div>';
       return null;
     });
 }
@@ -694,6 +911,7 @@ function renderCurrentTab() {
   else if (currentTab === "convertible") renderConvertChart();
   else if (currentTab === "listid") renderListTab();
   else if (currentTab === "penetration") renderPenTab();
+  else if (currentTab === "qa") renderQa();
 }
 
 // ===== TAB 1: OVERVIEW =====
@@ -750,22 +968,22 @@ function renderOverview() {
       datasets: [{
         label: "Team CVR %",
         data: teamRates,
-        borderColor: "#D69042",
-        backgroundColor: "rgba(214,144,66,0.1)",
+        borderColor: "#A43260",
+        backgroundColor: "rgba(164,50,96,0.1)",
         borderWidth: 2.5,
         fill: true,
         tension: 0.3,
         pointRadius: 4,
-        pointBackgroundColor: "#D69042"
+        pointBackgroundColor: "#A43260"
       }]
     },
     options: {
       responsive: true,
       maintainAspectRatio: false,
-      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "top", align: "top", color: "#522A10", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, formatter: function(value) { return value + "%"; } } },
+      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "top", align: "top", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, formatter: function(value) { return value + "%"; } } },
       scales: {
-        y: { beginAtZero: true, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } },
-        x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } }
+        y: { beginAtZero: true, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } },
+        x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } }
       }
     }
   });
@@ -863,7 +1081,7 @@ function renderTrends() {
     var t = getTeamTotalsForPeriod(periods[p]);
     teamData.push(Math.round(cvr(t.sales, t.total_spoken) * 10) / 10);
   }
-  datasets.push({ label: "Team Average", data: teamData, borderColor: "rgba(69,18,25,0.4)", borderWidth: 2, borderDash: [6, 4], tension: 0.3, pointRadius: 0, fill: false });
+  datasets.push({ label: "Team Average", data: teamData, borderColor: "rgba(82,42,16,0.4)", borderWidth: 2, borderDash: [6, 4], tension: 0.3, pointRadius: 0, fill: false });
 
   destroyChart("trendLine");
   var ctx = document.getElementById("trendLineChart").getContext("2d");
@@ -873,10 +1091,10 @@ function renderTrends() {
     options: {
       responsive: true,
       maintainAspectRatio: false,
-      plugins: { legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } }, datalabels: { display: true, anchor: "top", align: "top", color: "#522A10", font: { family: "Bricolage Grotesque", size: 9, weight: "bold" }, formatter: function(value) { if (value === null) return ""; return value + "%"; }, offset: 4 } },
+      plugins: { legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } }, datalabels: { display: true, anchor: "top", align: "top", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 9, weight: "bold" }, formatter: function(value) { if (value === null) return ""; return value + "%"; }, offset: 4 } },
       scales: {
-        y: { beginAtZero: true, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } },
-        x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } }
+        y: { beginAtZero: true, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } },
+        x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } }
       }
     }
   });
@@ -899,8 +1117,8 @@ function renderTrends() {
       datasets: [{
         label: "Leads Spoken To",
         data: volData,
-        backgroundColor: "rgba(214,144,66,0.2)",
-        borderColor: "#D69042",
+        backgroundColor: "rgba(164,50,96,0.2)",
+        borderColor: "#A43260",
         borderWidth: 1.5,
         borderRadius: 4
       }]
@@ -910,11 +1128,11 @@ function renderTrends() {
       maintainAspectRatio: false,
       plugins: {
         legend: { display: false },
-        datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: "Bricolage Grotesque", size: 11, weight: "bold" }, formatter: function(value) { return value.toLocaleString(); } }
+        datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 11, weight: "bold" }, formatter: function(value) { return value.toLocaleString(); } }
       },
       scales: {
-        y: { beginAtZero: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } },
-        x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } }
+        y: { beginAtZero: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } },
+        x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } }
       }
     }
   });
@@ -940,10 +1158,10 @@ function renderTrends() {
     data: { labels: volLabels, datasets: avDatasets },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, color: "#522A10" } }, datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 20; }, color: "#fff", font: { family: "Bricolage Grotesque", size: 9, weight: "bold" }, anchor: "center", align: "center" } },
+      plugins: { legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, color: "#522A10" } }, datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 20; }, color: "#fff", font: { family: 'Bricolage Grotesque', size: 9, weight: "bold" }, anchor: "center", align: "center" } },
       scales: {
-        x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } },
-        y: { stacked: true, beginAtZero: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } }
+        x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } },
+        y: { stacked: true, beginAtZero: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } }
       }
     }
   });
@@ -1055,19 +1273,19 @@ function renderOutcomeAll() {
       responsive: true,
       maintainAspectRatio: false,
       plugins: {
-        legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
+        legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
         datalabels: {
           display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; },
           color: "#fff",
-          font: { family: "Bricolage Grotesque", size: 10, weight: "bold" },
+          font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" },
           anchor: "center",
           align: "center",
           formatter: function(value) { return Math.round(value) + "%"; }
         }
       },
       scales: {
-        x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } }
+        x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } },
+        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } }
       }
     }
   });
@@ -1105,11 +1323,11 @@ function renderOutcomeCountChart(mode, agentName) {
   var ctx = document.getElementById("outcomeCountChart").getContext("2d");
   charts["outcomeCount"] = new Chart(ctx, {
     type: "bar",
-    data: { labels: labels, datasets: [{ label: "Spoken To", data: spokenData, backgroundColor: "rgba(214,144,66,0.25)", borderColor: "#D69042", borderWidth: 1.5, borderRadius: 4 }] },
+    data: { labels: labels, datasets: [{ label: "Spoken To", data: spokenData, backgroundColor: "rgba(164,50,96,0.25)", borderColor: "#A43260", borderWidth: 1.5, borderRadius: 4 }] },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, formatter: function(v) { return v.toLocaleString(); } } },
-      scales: { x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } }, y: { beginAtZero: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } } }
+      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, formatter: function(v) { return v.toLocaleString(); } } },
+      scales: { x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } }, y: { beginAtZero: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } } }
     }
   });
 }
@@ -1141,12 +1359,12 @@ function renderOutcomeSingle() {
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
-        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(value) { return Math.round(value) + "%"; } }
+        legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
+        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(value) { return Math.round(value) + "%"; } }
       },
       scales: {
-        x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } }
+        x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } },
+        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } }
       }
     }
   });
@@ -1204,12 +1422,12 @@ function renderConvertAll() {
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
-        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(value) { return Math.round(value) + "%"; } }
+        legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
+        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(value) { return Math.round(value) + "%"; } }
       },
       scales: {
-        x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } }
+        x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } },
+        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } }
       }
     }
   });
@@ -1250,8 +1468,8 @@ function renderConvertCountChart(mode, agentName) {
     data: { labels: labels, datasets: [{ label: "Convertible Leads", data: convData, backgroundColor: "rgba(245,166,35,0.3)", borderColor: "#F5A623", borderWidth: 1.5, borderRadius: 4 }] },
     options: {
       responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, formatter: function(v) { return v.toLocaleString(); } } },
-      scales: { x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } }, y: { beginAtZero: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } } }
+      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, formatter: function(v) { return v.toLocaleString(); } } },
+      scales: { x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28", maxRotation: 45 }, grid: { display: false } }, y: { beginAtZero: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } } }
     }
   });
 }
@@ -1287,12 +1505,12 @@ function renderConvertSingle() {
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
-        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(value) { return Math.round(value) + "%"; } }
+        legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, padding: 12, color: "#522A10" } },
+        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(value) { return Math.round(value) + "%"; } }
       },
       scales: {
-        x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } }
+        x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } },
+        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } }
       }
     }
   });
@@ -1420,12 +1638,12 @@ function renderListTab() {
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, color: "#522A10" } },
-        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 5; }, color: "#fff", font: { family: "Bricolage Grotesque", size: 11, weight: "bold" }, anchor: "center", align: "center", formatter: function(v) { return Math.round(v) + "%"; } }
+        legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, color: "#522A10" } },
+        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 5; }, color: "#fff", font: { family: 'Bricolage Grotesque', size: 11, weight: "bold" }, anchor: "center", align: "center", formatter: function(v) { return Math.round(v) + "%"; } }
       },
       scales: {
-        x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } }
+        x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } },
+        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } }
       }
     }
   });
@@ -1473,7 +1691,7 @@ function renderListTab() {
       volData.push(found ? found.total_spoken : 0);
       rateData.push(found && found.total_spoken >= 5 ? Math.round(found.sales / found.total_spoken * 1000) / 10 : null);
     }
-    datasets.push({ label: "Spoken To", data: volData, type: "bar", backgroundColor: "rgba(214,144,66,0.2)", borderColor: "#D69042", borderWidth: 1.5, borderRadius: 4, yAxisID: "y" });
+    datasets.push({ label: "Spoken To", data: volData, type: "bar", backgroundColor: "rgba(164,50,96,0.2)", borderColor: "#A43260", borderWidth: 1.5, borderRadius: 4, yAxisID: "y" });
     datasets.push({ label: "CVR %", data: rateData, type: "line", borderColor: "#2E7D32", borderWidth: 2.5, tension: 0.3, pointRadius: 4, pointBackgroundColor: "#2E7D32", fill: false, spanGaps: true, yAxisID: "y1" });
     document.getElementById("listChartTitle").textContent = "List " + selectedList + " - Volume & CVR Over Time";
   }
@@ -1482,19 +1700,19 @@ function renderListTab() {
   var ctx = document.getElementById("listChart").getContext("2d");
   var chartOpts = {
     responsive: true, maintainAspectRatio: false,
-    plugins: { legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, color: "#522A10" } }, datalabels: { display: false } },
-    scales: { x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } }, y: { beginAtZero: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } } }
+    plugins: { legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, color: "#522A10" } }, datalabels: { display: false } },
+    scales: { x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } }, y: { beginAtZero: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } } }
   };
   if (selectedList !== "ALL") {
-    chartOpts.scales.y = { beginAtZero: true, position: "left", title: { display: true, text: "Leads", font: { family: "Bricolage Grotesque", size: 12 }, color: "#633F28" }, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } };
-    chartOpts.scales.y1 = { beginAtZero: true, position: "right", title: { display: true, text: "CVR %", font: { family: "Bricolage Grotesque", size: 12 }, color: "#633F28" }, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { drawOnChartArea: false } };
+    chartOpts.scales.y = { beginAtZero: true, position: "left", title: { display: true, text: "Leads", font: { family: 'Bricolage Grotesque', size: 12 }, color: "#633F28" }, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } };
+    chartOpts.scales.y1 = { beginAtZero: true, position: "right", title: { display: true, text: "CVR %", font: { family: 'Bricolage Grotesque', size: 12 }, color: "#633F28" }, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { drawOnChartArea: false } };
   } else {
-    chartOpts.scales.y.ticks = { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" };
+    chartOpts.scales.y.ticks = { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" };
   }
   chartOpts.plugins.datalabels = {
       display: true,
       color: "#522A10",
-      font: { family: "Bricolage Grotesque", size: 9, weight: "bold" },
+      font: { family: 'Bricolage Grotesque', size: 9, weight: "bold" },
       anchor: "end",
       align: "top",
       offset: 2,
@@ -1535,12 +1753,12 @@ function renderListTab() {
       options: {
         responsive: true, maintainAspectRatio: false,
         plugins: {
-          legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, color: "#522A10" } },
-          datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(v) { return Math.round(v) + "%"; } }
+          legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, color: "#522A10" } },
+          datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 8; }, color: "#fff", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(v) { return Math.round(v) + "%"; } }
         },
         scales: {
-          x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } },
-          y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } }
+          x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } },
+          y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } }
         }
       }
     });
@@ -1640,7 +1858,7 @@ function renderPenTab() {
       }
       avgData.push(tl > 0 ? Math.round(ts / tl * 1000) / 10 : null);
     }
-    trendDatasets.push({ label: "Overall", data: avgData, borderColor: "rgba(69,18,25,0.4)", borderWidth: 2, borderDash: [6,4], tension: 0.3, pointRadius: 0, fill: false });
+    trendDatasets.push({ label: "Overall", data: avgData, borderColor: "rgba(82,42,16,0.4)", borderWidth: 2, borderDash: [6,4], tension: 0.3, pointRadius: 0, fill: false });
     document.getElementById("penTrendTitle").textContent = "Penetration Rate Trend - Top 3 Lists";
   } else {
     var rd = [];
@@ -1651,7 +1869,7 @@ function renderPenTab() {
       }
       rd.push(found && found.total_leads >= 5 ? Math.round(found.spoken_to / found.total_leads * 1000) / 10 : null);
     }
-    trendDatasets.push({ label: "List " + selectedList + " Penetration", data: rd, borderColor: "#D69042", backgroundColor: "rgba(214,144,66,0.1)", borderWidth: 2.5, tension: 0.3, pointRadius: 4, fill: true, spanGaps: true });
+    trendDatasets.push({ label: "List " + selectedList + " Penetration", data: rd, borderColor: "#A43260", backgroundColor: "rgba(164,50,96,0.1)", borderWidth: 2.5, tension: 0.3, pointRadius: 4, fill: true, spanGaps: true });
     document.getElementById("penTrendTitle").textContent = "List " + selectedList + " - Penetration Rate Over Time";
   }
 
@@ -1660,10 +1878,10 @@ function renderPenTab() {
   charts["penTrend"] = new Chart(ctx, {
     type: "line", data: { labels: tLabels, datasets: trendDatasets },
     options: { responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, color: "#522A10" } },
-        datalabels: { display: true, anchor: "top", align: "top", color: "#522A10", font: { family: "Bricolage Grotesque", size: 9, weight: "bold" }, formatter: function(v) { return v === null ? "" : v + "%"; }, offset: 4 } },
-      scales: { y: { beginAtZero: true, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } },
-        x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } } }
+      plugins: { legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, color: "#522A10" } },
+        datalabels: { display: true, anchor: "top", align: "top", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 9, weight: "bold" }, formatter: function(v) { return v === null ? "" : v + "%"; }, offset: 4 } },
+      scales: { y: { beginAtZero: true, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } },
+        x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } } }
     }
   });
 
@@ -1679,11 +1897,11 @@ function renderPenTab() {
   destroyChart("penBar");
   var bctx = document.getElementById("penBarChart").getContext("2d");
   charts["penBar"] = new Chart(bctx, {
-    type: "bar", data: { labels: barLabels, datasets: [{ label: "Penetration %", data: barData, backgroundColor: "rgba(214,144,66,0.3)", borderColor: "#D69042", borderWidth: 1.5, borderRadius: 4 }] },
+    type: "bar", data: { labels: barLabels, datasets: [{ label: "Penetration %", data: barData, backgroundColor: "rgba(164,50,96,0.3)", borderColor: "#A43260", borderWidth: 1.5, borderRadius: 4 }] },
     options: { responsive: true, maintainAspectRatio: false, indexAxis: "y",
-      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "end", align: "right", color: "#522A10", font: { family: "Bricolage Grotesque", size: 11, weight: "bold" }, formatter: function(v) { return v + "%"; } } },
-      scales: { x: { beginAtZero: true, max: 60, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } },
-        y: { ticks: { font: { family: "Bricolage Grotesque", size: 12 }, color: "#522A10" }, grid: { display: false } } }
+      plugins: { legend: { display: false }, datalabels: { display: true, anchor: "end", align: "right", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 11, weight: "bold" }, formatter: function(v) { return v + "%"; } } },
+      scales: { x: { beginAtZero: true, max: 60, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } },
+        y: { ticks: { font: { family: 'Bricolage Grotesque', size: 12 }, color: "#522A10" }, grid: { display: false } } }
     }
   });
 
@@ -1706,10 +1924,10 @@ function renderPenTab() {
       { label: "Not Penetrated", data: sNs, backgroundColor: "#ED6961", borderRadius: 2 }
     ]},
     options: { responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, color: "#522A10" } },
-        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 5; }, color: "#fff", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(v) { return Math.round(v) + "%"; } } },
-      scales: { x: { stacked: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } },
-        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } } }
+      plugins: { legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, color: "#522A10" } },
+        datalabels: { display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 5; }, color: "#fff", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, anchor: "center", align: "center", formatter: function(v) { return Math.round(v) + "%"; } } },
+      scales: { x: { stacked: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } },
+        y: { stacked: true, max: 100, ticks: { callback: function(v) { return v + "%"; }, font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } } }
     }
   });
 
@@ -1726,14 +1944,14 @@ function renderPenTab() {
   var vctx = document.getElementById("penVolumeChart").getContext("2d");
   charts["penVolume"] = new Chart(vctx, {
     type: "bar", data: { labels: vLabels, datasets: [
-      { label: "Total Leads", data: vTotal, backgroundColor: "rgba(69,18,25,0.12)", borderColor: "rgba(69,18,25,0.3)", borderWidth: 1, borderRadius: 4 },
-      { label: "Spoken To", data: vSpoken, backgroundColor: "rgba(214,144,66,0.4)", borderColor: "#D69042", borderWidth: 1, borderRadius: 4 }
+      { label: "Total Leads", data: vTotal, backgroundColor: "rgba(82,42,16,0.12)", borderColor: "rgba(82,42,16,0.3)", borderWidth: 1, borderRadius: 4 },
+      { label: "Spoken To", data: vSpoken, backgroundColor: "rgba(164,50,96,0.4)", borderColor: "#A43260", borderWidth: 1, borderRadius: 4 }
     ]},
     options: { responsive: true, maintainAspectRatio: false,
-      plugins: { legend: { position: "bottom", labels: { font: { family: "Bricolage Grotesque", size: 11 }, boxWidth: 12, color: "#522A10" } },
-        datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: "Bricolage Grotesque", size: 10, weight: "bold" }, formatter: function(v) { return v.toLocaleString(); } } },
-      scales: { x: { ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { display: false } },
-        y: { beginAtZero: true, ticks: { font: { family: "Bricolage Grotesque", size: 11 }, color: "#633F28" }, grid: { color: "rgba(69,18,25,0.06)" } } }
+      plugins: { legend: { position: "bottom", labels: { font: { family: 'Bricolage Grotesque', size: 11 }, boxWidth: 12, color: "#522A10" } },
+        datalabels: { display: true, anchor: "end", align: "top", color: "#522A10", font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" }, formatter: function(v) { return v.toLocaleString(); } } },
+      scales: { x: { ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { display: false } },
+        y: { beginAtZero: true, ticks: { font: { family: 'Bricolage Grotesque', size: 11 }, color: "#633F28" }, grid: { color: "rgba(82,42,16,0.06)" } } }
     }
   });
 
@@ -1757,6 +1975,980 @@ function renderPenTab() {
   }
   document.getElementById("penTableBody").innerHTML = tblHtml;
 }
+
+// ============================================================
+// TAB 8: TALK TIME QA
+// ============================================================
+var qaSubTab = "team";
+var qaSuspiciousSort = "date";
+var qaSkewExpanded = {}; // idx -> true when expanded
+var qaCharts = {};
+var qaSuspAgentFilter = null;         // null = show all; otherwise filter to this agent's flagged calls
+var qaSkewOutcomeFilter = "__all__";   // filter chip: __all__, Sale, Convertible, Bad Data, Not Spoken, N/A
+var qaConvSelectedAgents = {};         // agent name -> true when selected in the conversion picker
+var qaConvPickerInitialised = false;
+var qaAttemptsSelectedAgents = {};     // agent name -> true when selected in the attempts picker
+var qaAttemptsPickerInitialised = false;
+var QA_OUTCOME_ORDER = ["Sale", "Convertible", "Bad Data", "Not Spoken", "N/A"];
+
+// --- Helpers -------------------------------------------------
+
+function qaData() { return getData() || {}; }
+function qaMeta() { return qaData().talk_time_meta || {}; }
+function qaAirtableUrl(rid) {
+  if (!rid) return "#";
+  var m = qaMeta();
+  var base = m.airtable_base_id || "appc3AWUlFaHlmdWk";
+  var tbl = m.airtable_table_id || "tblkhYU7kDPoA6V23";
+  return "https://airtable.com/" + base + "/" + tbl + "/" + rid;
+}
+function qaSecs(v) {
+  if (v === null || v === undefined) return "—";
+  var n = Math.round(v);
+  if (n < 60) return n + "s";
+  var m = Math.floor(n / 60);
+  var s = n % 60;
+  return m + "m " + (s < 10 ? "0" : "") + s + "s";
+}
+function qaDestroyChart(key) { if (qaCharts[key]) { qaCharts[key].destroy(); delete qaCharts[key]; } }
+
+// Colour ramps
+function qaHeatColor(v, minV, maxV) {
+  if (v === null || v === undefined || maxV === minV) return "#fafafa";
+  var t = Math.max(0, Math.min(1, (v - minV) / (maxV - minV)));
+  // interpolate bb-cream (#FFF6D8) -> bb-berry-dark (#80254A)
+  var r = Math.round(255 + t * (128 - 255));
+  var g = Math.round(246 + t * (37 - 246));
+  var b = Math.round(216 + t * (74 - 216));
+  return "rgb(" + r + "," + g + "," + b + ")";
+}
+function qaHeatTextColor(v, minV, maxV) {
+  if (v === null || v === undefined || maxV === minV) return "var(--bb-brown-light)";
+  var t = Math.max(0, Math.min(1, (v - minV) / (maxV - minV)));
+  return t > 0.55 ? "#fff" : "var(--bb-brown)";
+}
+function qaDivergeColor(delta, maxAbs) {
+  if (delta === null || delta === undefined || maxAbs === 0) return "#fafafa";
+  var t = Math.max(-1, Math.min(1, delta / maxAbs));
+  if (t >= 0) {
+    // white -> coral
+    var r = Math.round(255 + t * (237 - 255));
+    var g = Math.round(255 + t * (105 - 255));
+    var b = Math.round(255 + t * (97 - 255));
+    return "rgb(" + r + "," + g + "," + b + ")";
+  } else {
+    // white -> navy
+    var s = -t;
+    var r = Math.round(255 + s * (16 - 255));
+    var g = Math.round(255 + s * (80 - 255));
+    var b = Math.round(255 + s * (124 - 255));
+    return "rgb(" + r + "," + g + "," + b + ")";
+  }
+}
+function qaDivergeTextColor(delta, maxAbs) {
+  if (delta === null || delta === undefined || maxAbs === 0) return "var(--bb-brown-light)";
+  var t = Math.abs(delta) / maxAbs;
+  return t > 0.55 ? "#fff" : "var(--bb-brown)";
+}
+
+// --- Top-level dispatch --------------------------------------
+
+function setQaSubTab(sub) {
+  qaSubTab = sub;
+  var btns = document.querySelectorAll("#qaSubNav button");
+  for (var i = 0; i < btns.length; i++) btns[i].classList.toggle("active", btns[i].getAttribute("data-sub") === sub);
+  var panels = document.querySelectorAll("#tab-qa .sub-panel");
+  for (var i = 0; i < panels.length; i++) panels[i].classList.toggle("active", panels[i].id === "sub-" + sub);
+  renderQa();
+}
+
+function renderQa() {
+  if (qaSubTab === "team") renderQaTeamView();
+  else if (qaSubTab === "suspicious") renderQaSuspicious();
+  else if (qaSubTab === "outcome") renderQaOutcomeAnalysis();
+  else if (qaSubTab === "attempts") renderQaAttempts();
+  else if (qaSubTab === "scorecard") renderQaScorecard();
+}
+
+// --- Sub-tab 1: Team View (Heatmap + Deviation) --------------
+
+function renderQaTeamView() {
+  var d = qaData();
+  var by = d.talk_time_by_agent_code || [];
+  var baseline = d.talk_time_team_code_baseline || [];
+
+  // Metric strip
+  var records = (d.talk_time_meta && d.talk_time_meta.records_with_talk_time) || 0;
+  var agentSet = {}, codeSet = {};
+  by.forEach(function(r) { agentSet[r.agent] = true; codeSet[r.code] = true; });
+  var strip = document.getElementById("qaTeamMetricStrip");
+  strip.innerHTML =
+    '<div class="qa-metric-tile"><div class="label">Calls Analysed</div><div class="value">' + records.toLocaleString() + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">Agents</div><div class="value">' + Object.keys(agentSet).length + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">Result Codes</div><div class="value">' + Object.keys(codeSet).length + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">HANGUP >60s</div><div class="value warn">' + ((d.hangup_over_60s || []).length) + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">HUNGUP >60s</div><div class="value warn">' + ((d.hungup_over_60s || []).length) + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">AGAM >60s</div><div class="value warn">' + ((d.agam_over_60s || []).length) + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">FREEONLY >60s</div><div class="value warn">' + ((d.freeonly_over_60s || []).length) + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">Skewed Combos</div><div class="value warn">' + ((d.skewed_combos || []).length) + '</div></div>';
+
+  // Sort agents alphabetically. Sort codes by outcome group (Sale, Convertible,
+  // Bad Data, Not Spoken, N/A, Unknown), then by team volume desc within group.
+  var agents = Object.keys(agentSet).sort();
+  var baselineByCode = {};
+  baseline.forEach(function(b) { baselineByCode[b.code] = b; });
+  var codes = Object.keys(codeSet).sort(function(a, b) {
+    var oa = QA_OUTCOME_ORDER.indexOf(qaOutcomeForCode(a));
+    var ob = QA_OUTCOME_ORDER.indexOf(qaOutcomeForCode(b));
+    if (oa !== ob) return oa - ob;
+    var ca = (baselineByCode[a] && baselineByCode[a].count) || 0;
+    var cb = (baselineByCode[b] && baselineByCode[b].count) || 0;
+    return cb - ca;
+  });
+
+  // Lookup (agent, code) -> row
+  var lookup = {};
+  by.forEach(function(r) { lookup[r.agent + "|" + r.code] = r; });
+
+  // Heatmap: build min/max avg across all cells
+  var minAvg = Infinity, maxAvg = -Infinity;
+  by.forEach(function(r) {
+    if (r.avg_talk !== null && r.avg_talk !== undefined) {
+      if (r.avg_talk < minAvg) minAvg = r.avg_talk;
+      if (r.avg_talk > maxAvg) maxAvg = r.avg_talk;
+    }
+  });
+  if (minAvg === Infinity) { minAvg = 0; maxAvg = 1; }
+
+  var h = '<table class="heatmap-table"><thead><tr><th style="min-width:140px;">Agent</th>';
+  codes.forEach(function(c) { h += '<th>' + c + '</th>'; });
+  h += '</tr></thead><tbody>';
+  agents.forEach(function(ag) {
+    h += '<tr><th class="agent-cell">' + ag + '</th>';
+    codes.forEach(function(c) {
+      var r = lookup[ag + "|" + c];
+      if (!r || r.count === 0) {
+        h += '<td class="empty">—</td>';
+      } else {
+        var bg = qaHeatColor(r.avg_talk, minAvg, maxAvg);
+        var fg = qaHeatTextColor(r.avg_talk, minAvg, maxAvg);
+        h += '<td class="qa-cell" style="background:' + bg + ';color:' + fg + ';">' + qaSecs(r.avg_talk) + '<span class="cnt" style="color:' + (fg === "#fff" ? "rgba(255,255,255,0.75)" : "var(--bb-brown-light)") + ';">n=' + r.count + '</span></td>';
+      }
+    });
+    h += '</tr>';
+  });
+  h += '</tbody></table>';
+  document.getElementById("qaHeatmap").innerHTML = h;
+
+  // Deviation table (agent_median - team_median)
+  var maxAbs = 0;
+  var devMap = {};
+  agents.forEach(function(ag) {
+    codes.forEach(function(c) {
+      var r = lookup[ag + "|" + c];
+      var team = baselineByCode[c];
+      if (!r || r.count < 5 || !team || team.count < 20 || team.median_talk === null) return;
+      var d = r.median_talk - team.median_talk;
+      devMap[ag + "|" + c] = d;
+      var a = Math.abs(d);
+      if (a > maxAbs) maxAbs = a;
+    });
+  });
+
+  var dh = '<table class="heatmap-table"><thead><tr><th style="min-width:140px;">Agent</th>';
+  codes.forEach(function(c) {
+    var team = baselineByCode[c];
+    var tm = (team && team.median_talk !== null && team.count >= 20) ? qaSecs(team.median_talk) : "—";
+    dh += '<th>' + c + '<br><span style="font-weight:400;color:var(--bb-brown-light);">' + tm + '</span></th>';
+  });
+  dh += '</tr></thead><tbody>';
+  agents.forEach(function(ag) {
+    dh += '<tr><th class="agent-cell">' + ag + '</th>';
+    codes.forEach(function(c) {
+      var key = ag + "|" + c;
+      if (!(key in devMap)) {
+        dh += '<td class="empty">—</td>';
+      } else {
+        var d = devMap[key];
+        var bg = qaDivergeColor(d, maxAbs);
+        var fg = qaDivergeTextColor(d, maxAbs);
+        var sign = d > 0 ? "+" : "";
+        dh += '<td class="qa-cell" style="background:' + bg + ';color:' + fg + ';">' + sign + Math.round(d) + 's</td>';
+      }
+    });
+    dh += '</tr>';
+  });
+  dh += '</tbody></table>';
+  document.getElementById("qaDeviation").innerHTML = dh;
+}
+
+// --- Sub-tab 2: Suspicious Calls -----------------------------
+
+function setSuspiciousSort(mode) {
+  qaSuspiciousSort = mode;
+  var btns = document.querySelectorAll("#qaSuspSortToggle button");
+  for (var i = 0; i < btns.length; i++) btns[i].classList.toggle("active", btns[i].getAttribute("data-sort") === mode);
+  renderQaSuspicious();
+}
+
+function toggleSkewDrilldown(idx) {
+  qaSkewExpanded[idx] = !qaSkewExpanded[idx];
+  renderQaSuspicious();
+}
+
+function setSuspAgentFilter(agent) {
+  qaSuspAgentFilter = (qaSuspAgentFilter === agent) ? null : agent;  // click-again toggles off
+  qaSkewExpanded = {};
+  renderQaSuspicious();
+}
+function clearSuspAgentFilter() {
+  qaSuspAgentFilter = null;
+  qaSkewExpanded = {};
+  renderQaSuspicious();
+}
+function setSkewOutcomeFilter(outcome) {
+  qaSkewOutcomeFilter = outcome;
+  var btns = document.querySelectorAll("#qaSkewOutcomeToggle button");
+  for (var i = 0; i < btns.length; i++) btns[i].classList.toggle("active", btns[i].getAttribute("data-outcome") === outcome);
+  qaSkewExpanded = {};
+  renderQaSuspicious();
+}
+
+function qaPhonePill(masked) {
+  if (!masked) return '<span style="color:var(--bb-brown-light);font-style:italic;">no number</span>';
+  return '<span style="font-family:monospace;font-size:12px;letter-spacing:0.5px;background:var(--bb-cream);padding:3px 8px;border-radius:6px;border:1px solid rgba(82,42,16,0.08);">' + masked + '</span>';
+}
+
+function renderQaSuspicious() {
+  var d = qaData();
+  var allHangups = (d.hangup_over_60s || []).slice();
+  var allHungup = (d.hungup_over_60s || []).slice();
+  var allAgams = (d.agam_over_60s || []).slice();
+  var allFreeonly = (d.freeonly_over_60s || []).slice();
+  var allCombos = (d.skewed_combos || []).slice();
+  var tileRows = (d.suspicious_tile_counts || []).slice();
+
+  // Metric strip
+  var strip = document.getElementById("qaSuspiciousMetricStrip");
+  var highSkew = allCombos.filter(function(c) { return c.direction === "high"; }).length;
+  var lowSkew = allCombos.filter(function(c) { return c.direction === "low"; }).length;
+  strip.innerHTML =
+    '<div class="qa-metric-tile"><div class="label">HANGUP >60s</div><div class="value warn">' + allHangups.length + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">HUNGUP >60s</div><div class="value warn">' + allHungup.length + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">AGAM >60s</div><div class="value warn">' + allAgams.length + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">FREEONLY >60s</div><div class="value warn">' + allFreeonly.length + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">Skewed Combos</div><div class="value warn">' + allCombos.length + '</div></div>';
+
+  // Agent tiles — clickable filter
+  var tilesHtml = "";
+  if (!tileRows.length) {
+    tilesHtml = '<div style="color:var(--bb-brown-light);font-size:12px;font-style:italic;">No agents have flagged calls.</div>';
+  } else {
+    tileRows.forEach(function(t) {
+      var active = qaSuspAgentFilter === t.agent;
+      var borderColor = active ? "var(--bb-berry)" : "rgba(82,42,16,0.08)";
+      var bgColor = active ? "rgba(164,50,96,0.06)" : "#fff";
+      tilesHtml += '<button onclick="setSuspAgentFilter(' + JSON.stringify(t.agent).replace(/"/g, '&quot;') + ')" style="text-align:left;background:' + bgColor + ';padding:12px 14px;border:2px solid ' + borderColor + ';border-radius:10px;cursor:pointer;box-shadow:0 1px 3px rgba(82,42,16,0.06);font-family:inherit;">'
+        + '<div style="font-weight:700;color:var(--bb-brown);font-size:13px;margin-bottom:6px;">' + t.agent + '</div>'
+        + '<div style="display:flex;gap:6px;flex-wrap:wrap;font-size:10px;">'
+        + (t.hangup > 0 ? '<span class="qa-flag-badge hangup">' + t.hangup + ' HANGUP</span>' : '')
+        + (t.hungup > 0 ? '<span class="qa-flag-badge hangup">' + t.hungup + ' HUNGUP</span>' : '')
+        + (t.agam > 0 ? '<span class="qa-flag-badge hangup">' + t.agam + ' AGAM</span>' : '')
+        + (t.freeonly > 0 ? '<span class="qa-flag-badge hangup">' + t.freeonly + ' FREEONLY</span>' : '')
+        + (t.skew > 0 ? '<span class="qa-flag-badge skew-high">' + t.skew + ' skew</span>' : '')
+        + '</div></button>';
+    });
+  }
+  document.getElementById("qaSuspTiles").innerHTML = tilesHtml;
+
+  // Filter bar
+  var fbar = document.getElementById("qaSuspFilterBar");
+  var flabel = document.getElementById("qaSuspFilterLabel");
+  if (qaSuspAgentFilter) {
+    fbar.style.display = "flex";
+    flabel.innerHTML = 'Showing flagged calls for <strong>' + qaSuspAgentFilter + '</strong> only.';
+  } else {
+    fbar.style.display = "none";
+  }
+
+  // Apply agent filter for combined flag table (all 4 Marro rules)
+  var flagRows = allHangups.map(function(r) { return Object.assign({}, r, {rule: "HANGUP"}); })
+    .concat(allHungup.map(function(r) { return Object.assign({}, r, {rule: "HUNGUP"}); }))
+    .concat(allAgams.map(function(r) { return Object.assign({}, r, {rule: "AGAM"}); }))
+    .concat(allFreeonly.map(function(r) { return Object.assign({}, r, {rule: "FREEONLY"}); }));
+  if (qaSuspAgentFilter) flagRows = flagRows.filter(function(r) { return r.agent === qaSuspAgentFilter; });
+
+  if (qaSuspiciousSort === "agent") {
+    flagRows.sort(function(a, b) { return (a.agent || "").localeCompare(b.agent || "") || (b.date || "").localeCompare(a.date || ""); });
+  } else {
+    flagRows.sort(function(a, b) { return (b.date || "").localeCompare(a.date || "") || (a.agent || "").localeCompare(b.agent || ""); });
+  }
+
+  var hbody = "";
+  if (flagRows.length === 0) {
+    hbody = '<tr><td colspan="7" style="text-align:center;color:var(--bb-brown-light);padding:24px;">No HANGUP, HUNGUP, AGAM or FREEONLY calls exceed the 60s threshold' + (qaSuspAgentFilter ? ' for ' + qaSuspAgentFilter : '') + '.</td></tr>';
+  } else {
+    flagRows.forEach(function(r) {
+      hbody += '<tr>'
+        + '<td>' + (r.date || "—") + '</td>'
+        + '<td><strong>' + r.agent + '</strong></td>'
+        + '<td><span class="qa-flag-badge hangup">' + r.rule + '</span></td>'
+        + '<td>' + qaSecs(r.talk) + '</td>'
+        + '<td>' + r.outcome + '</td>'
+        + '<td>' + qaPhonePill(r.phone_masked) + '</td>'
+        + '<td><a class="qa-link" href="' + qaAirtableUrl(r.record_id) + '" target="_blank" rel="noopener">Open in Airtable →</a></td>'
+        + '</tr>';
+    });
+  }
+  document.getElementById("qaHangupBody").innerHTML = hbody;
+
+  // Apply agent + outcome filter for skew combos table
+  var combos = allCombos.slice();
+  if (qaSuspAgentFilter) combos = combos.filter(function(c) { return c.agent === qaSuspAgentFilter; });
+  if (qaSkewOutcomeFilter !== "__all__") combos = combos.filter(function(c) { return qaOutcomeForCode(c.code) === qaSkewOutcomeFilter; });
+
+  if (qaSuspiciousSort === "agent") {
+    combos.sort(function(a, b) { return (a.agent || "").localeCompare(b.agent || "") || (b.deviation_pct || 0) - (a.deviation_pct || 0); });
+  } else {
+    combos.sort(function(a, b) { return Math.abs(b.deviation_pct || 0) - Math.abs(a.deviation_pct || 0); });
+  }
+
+  var sbody = "";
+  if (combos.length === 0) {
+    sbody = '<tr><td colspan="8" style="text-align:center;color:var(--bb-brown-light);padding:24px;">No (Agent x Code) combos match the current filters.</td></tr>';
+  } else {
+    combos.forEach(function(c, idx) {
+      var expanded = !!qaSkewExpanded[idx];
+      var arrow = expanded ? "−" : "+";
+      var badge = c.direction === "high" ? '<span class="qa-flag-badge skew-high">Too Long</span>' : '<span class="qa-flag-badge skew-low">Too Short</span>';
+      var sign = c.deviation_pct > 0 ? "+" : "";
+      sbody += '<tr>'
+        + '<td><button class="qa-expand-btn" onclick="toggleSkewDrilldown(' + idx + ')">' + arrow + '</button></td>'
+        + '<td><strong>' + c.agent + '</strong></td>'
+        + '<td>' + c.code + ' ' + badge + '</td>'
+        + '<td>' + qaOutcomeForCode(c.code) + '</td>'
+        + '<td>' + c.count + '</td>'
+        + '<td>' + qaSecs(c.agent_avg) + '</td>'
+        + '<td>' + qaSecs(c.team_avg) + '</td>'
+        + '<td><strong style="color:' + (c.direction === "high" ? "var(--bb-coral)" : "var(--bb-navy)") + ';">' + sign + c.deviation_pct.toFixed(1) + '%</strong></td>'
+        + '</tr>';
+      if (expanded) {
+        var grid = "";
+        (c.sample_records || []).forEach(function(r) {
+          grid += '<a class="qa-drilldown-item" href="' + qaAirtableUrl(r.record_id) + '" target="_blank" rel="noopener" style="text-decoration:none;color:inherit;">'
+            + '<span style="display:flex;flex-direction:column;gap:2px;"><span>' + (r.date || "—") + '</span>'
+            + '<span style="font-family:monospace;font-size:10px;color:var(--bb-brown-light);">' + (r.phone_masked || "") + '</span></span>'
+            + '<span class="talk">' + qaSecs(r.talk) + '</span>'
+            + '</a>';
+        });
+        var note = c.sample_capped ? '<div style="font-size:11px;color:var(--bb-brown-light);margin-bottom:8px;">Showing 50 of ' + c.count + ' calls (sorted by most recent).</div>' : '<div style="font-size:11px;color:var(--bb-brown-light);margin-bottom:8px;">All ' + c.count + ' calls.</div>';
+        sbody += '<tr class="qa-drilldown-row"><td colspan="8">' + note + '<div class="qa-drilldown-grid">' + grid + '</div></td></tr>';
+      }
+    });
+  }
+  document.getElementById("qaSkewBody").innerHTML = sbody;
+}
+
+// --- Sub-tab 3: Outcome Analysis -----------------------------
+
+var QA_OUTCOME_COLORS = {
+  "Sale": "#2E7D32",
+  "Convertible": "#D69042",
+  "Bad Data": "#96061C",
+  "Not Spoken": "#E2C5C5",
+  "N/A": "#816165",
+  "Unknown": "#816165"
+};
+
+function renderQaOutcomeAnalysis() {
+  var d = qaData();
+  var rows = d.talk_time_by_agent_outcome || [];
+
+  var agentsSet = {};
+  rows.forEach(function(r) { agentsSet[r.agent] = true; });
+  var agents = Object.keys(agentsSet).sort();
+  var outcomes = ["Sale", "Convertible", "Bad Data", "Not Spoken", "N/A"];
+
+  // Populate histogram selector
+  var sel = document.getElementById("qaHistAgentSelect");
+  var currentVal = sel.value || "__team__";
+  var options = '<option value="__team__">Team aggregate</option>';
+  agents.forEach(function(a) { options += '<option value="' + a + '">' + a + '</option>'; });
+  sel.innerHTML = options;
+  sel.value = currentVal;
+
+  // ---- Grouped bars: avg talk time by outcome per agent ----
+  var lookup = {};
+  rows.forEach(function(r) { lookup[r.agent + "|" + r.outcome] = r; });
+  var datasets = outcomes.map(function(o) {
+    return {
+      label: o,
+      backgroundColor: QA_OUTCOME_COLORS[o],
+      data: agents.map(function(a) {
+        var r = lookup[a + "|" + o];
+        return r && r.count > 0 ? r.avg_talk : null;
+      })
+    };
+  });
+  qaDestroyChart("outcomeBars");
+  qaCharts.outcomeBars = new Chart(document.getElementById("qaOutcomeBars"), {
+    type: "bar",
+    data: { labels: agents, datasets: datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: { y: { title: { display: true, text: "Avg Talk (s)" }, beginAtZero: true }, x: { ticks: { maxRotation: 60, minRotation: 45, autoSkip: false } } },
+      plugins: {
+        legend: { position: "top" },
+        tooltip: { callbacks: { label: function(ctx) { return ctx.dataset.label + ": " + qaSecs(ctx.parsed.y); } } },
+        datalabels: {
+          anchor: "end", align: "top", offset: 2, clamp: true,
+          font: { size: 9, family: "'Bricolage Grotesque', sans-serif", weight: "600" },
+          color: "#522A10",
+          formatter: function(v) { if (v === null || v === undefined) return ""; return qaSecs(v); },
+          display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] !== null; }
+        }
+      }
+    },
+    plugins: [ChartDataLabels]
+  });
+
+  // ---- Efficiency scatter ----
+  var agentAgg = {};
+  agents.forEach(function(a) { agentAgg[a] = { totalCalls: 0, weightedTalk: 0, sale: 0 }; });
+  rows.forEach(function(r) {
+    var a = agentAgg[r.agent]; if (!a) return;
+    a.totalCalls += r.count;
+    a.weightedTalk += (r.avg_talk || 0) * r.count;
+    if (r.outcome === "Sale") a.sale += r.count;
+  });
+  var scatterPoints = [];
+  agents.forEach(function(a) {
+    var agg = agentAgg[a];
+    if (agg.totalCalls < 30) return; // min volume floor for readability
+    scatterPoints.push({
+      x: agg.weightedTalk / agg.totalCalls,
+      y: (agg.sale / agg.totalCalls) * 100,
+      r: Math.max(5, Math.min(20, Math.sqrt(agg.totalCalls) * 0.4)),
+      label: a,
+      calls: agg.totalCalls
+    });
+  });
+  var xMed = scatterPoints.length ? scatterPoints.map(function(p) { return p.x; }).sort(function(a, b) { return a - b; })[Math.floor(scatterPoints.length / 2)] : 0;
+  var yMed = scatterPoints.length ? scatterPoints.map(function(p) { return p.y; }).sort(function(a, b) { return a - b; })[Math.floor(scatterPoints.length / 2)] : 0;
+
+  qaDestroyChart("efficiency");
+  qaCharts.efficiency = new Chart(document.getElementById("qaEfficiencyScatter"), {
+    type: "bubble",
+    data: { datasets: [{ label: "Agent", data: scatterPoints, backgroundColor: "rgba(164,50,96,0.55)", borderColor: "#80254A", borderWidth: 1 }] },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: {
+        x: { title: { display: true, text: "Avg Talk Time (s)" }, beginAtZero: true },
+        y: { title: { display: true, text: "Sale %" }, beginAtZero: true }
+      },
+      plugins: {
+        legend: { display: false },
+        tooltip: { callbacks: { label: function(ctx) { var p = ctx.raw; return p.label + " — " + qaSecs(p.x) + " avg, " + p.y.toFixed(1) + "% sale (" + p.calls.toLocaleString() + " calls)"; } } },
+        annotation: false
+      }
+    },
+    plugins: [{
+      id: "qaEfficiencyLabels",
+      afterDatasetsDraw: function(chart) {
+        var ctx = chart.ctx;
+        ctx.save();
+        ctx.font = "11px 'Bricolage Grotesque'";
+        ctx.fillStyle = "#522A10";
+        ctx.textAlign = "center";
+        var meta = chart.getDatasetMeta(0);
+        meta.data.forEach(function(pt, i) {
+          var p = scatterPoints[i]; if (!p) return;
+          ctx.fillText(p.label, pt.x, pt.y - pt.options.radius - 4);
+        });
+        // Median reference lines
+        var xScale = chart.scales.x, yScale = chart.scales.y;
+        ctx.strokeStyle = "rgba(82,42,16,0.35)";
+        ctx.setLineDash([4, 4]);
+        ctx.beginPath();
+        var xPix = xScale.getPixelForValue(xMed);
+        ctx.moveTo(xPix, yScale.top); ctx.lineTo(xPix, yScale.bottom); ctx.stroke();
+        ctx.beginPath();
+        var yPix = yScale.getPixelForValue(yMed);
+        ctx.moveTo(xScale.left, yPix); ctx.lineTo(xScale.right, yPix); ctx.stroke();
+        ctx.setLineDash([]);
+        ctx.restore();
+      }
+    }]
+  });
+
+  renderQaOutcomeHistogram();
+  renderQaConversionByLength();
+}
+
+// ---- Agent picker helpers (shared by attempts + conversion charts) ----
+function qaRenderAgentPicker(containerId, agents, selectedMap, onToggleFnName) {
+  var html = "";
+  agents.forEach(function(a) {
+    var checked = selectedMap[a] ? "checked" : "";
+    var cls = selectedMap[a] ? "agent-checkbox-label checked" : "agent-checkbox-label";
+    var escaped = a.replace(/"/g, "&quot;");
+    html += '<label class="' + cls + '" data-agent="' + escaped + '"><input type="checkbox" ' + checked + ' onchange="' + onToggleFnName + '(&quot;' + escaped + '&quot;)"> ' + a + '</label>';
+  });
+  document.getElementById(containerId).innerHTML = html;
+}
+function qaRepaintAgentPicker(containerId, selectedMap) {
+  var container = document.getElementById(containerId);
+  if (!container) return;
+  var labels = container.querySelectorAll(".agent-checkbox-label");
+  labels.forEach(function(lbl) {
+    var agent = lbl.getAttribute("data-agent");
+    var isChecked = !!selectedMap[agent];
+    var input = lbl.querySelector("input");
+    if (input) input.checked = isChecked;
+    lbl.classList.toggle("checked", isChecked);
+  });
+}
+
+// ---- Conversion by Call Length chart ----
+function qaConvToggle(name) {
+  if (qaConvSelectedAgents[name]) delete qaConvSelectedAgents[name];
+  else qaConvSelectedAgents[name] = true;
+  qaRepaintAgentPicker("qaConvAgentPicker", qaConvSelectedAgents);
+  renderQaConversionByLength();
+}
+function qaConvSelectAll() {
+  var d = qaData(); var rows = d.conversion_by_talk_length || [];
+  rows.forEach(function(r) { qaConvSelectedAgents[r.agent] = true; });
+  qaRepaintAgentPicker("qaConvAgentPicker", qaConvSelectedAgents);
+  renderQaConversionByLength();
+}
+function qaConvSelectNone() {
+  qaConvSelectedAgents = {};
+  qaRepaintAgentPicker("qaConvAgentPicker", qaConvSelectedAgents);
+  renderQaConversionByLength();
+}
+function qaConvSelectTop5() {
+  var d = qaData(); var rows = d.conversion_by_talk_length || [];
+  var totals = {};
+  rows.forEach(function(r) { totals[r.agent] = (totals[r.agent] || 0) + r.total; });
+  qaConvSelectedAgents = {};
+  Object.keys(totals).sort(function(a, b) { return totals[b] - totals[a]; }).slice(0, 5).forEach(function(a) { qaConvSelectedAgents[a] = true; });
+  qaRepaintAgentPicker("qaConvAgentPicker", qaConvSelectedAgents);
+  renderQaConversionByLength();
+}
+function renderQaConversionByLength() {
+  var d = qaData();
+  var rows = d.conversion_by_talk_length || [];
+  var teamRows = d.conversion_by_talk_length_team || [];
+  var buckets = ["5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15+"];
+
+  // Initialise picker on first render for this data
+  if (!qaConvPickerInitialised) {
+    var aset = {};
+    rows.forEach(function(r) { aset[r.agent] = true; });
+    var agents = Object.keys(aset).sort();
+    var totals = {};
+    rows.forEach(function(r) { totals[r.agent] = (totals[r.agent] || 0) + r.total; });
+    agents.slice().sort(function(a, b) { return (totals[b] || 0) - (totals[a] || 0); }).slice(0, 5).forEach(function(a) { qaConvSelectedAgents[a] = true; });
+    qaRenderAgentPicker("qaConvAgentPicker", agents, qaConvSelectedAgents, "qaConvToggle");
+    qaConvPickerInitialised = true;
+  }
+
+  var lookup = {};
+  rows.forEach(function(r) { lookup[r.agent + "|" + r.minute] = r; });
+  var teamLookup = {};
+  teamRows.forEach(function(r) { teamLookup[r.minute] = r; });
+
+  var picked = Object.keys(qaConvSelectedAgents).filter(function(a) { return qaConvSelectedAgents[a]; }).sort();
+
+  var datasets = picked.map(function(a, i) {
+    return {
+      label: a,
+      borderColor: QA_PALETTE[i % QA_PALETTE.length],
+      backgroundColor: QA_PALETTE[i % QA_PALETTE.length],
+      data: buckets.map(function(b) { var r = lookup[a + "|" + b]; return r && r.total > 0 ? r.sale_pct : null; }),
+      spanGaps: true,
+      tension: 0.2,
+      pointRadius: 4
+    };
+  });
+  // Team average line
+  datasets.push({
+    label: "Team average",
+    borderColor: "rgba(82,42,16,0.55)",
+    backgroundColor: "rgba(82,42,16,0.05)",
+    borderDash: [6, 4],
+    data: buckets.map(function(b) { var r = teamLookup[b]; return r && r.total > 0 ? r.sale_pct : null; }),
+    pointRadius: 3,
+    spanGaps: true
+  });
+
+  qaDestroyChart("convByLength");
+  qaCharts.convByLength = new Chart(document.getElementById("qaConvByLength"), {
+    type: "line",
+    data: { labels: buckets.map(function(b) { return b + (b === "15+" ? " min" : "-" + (parseInt(b, 10) + 1) + " min"); }), datasets: datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: {
+        y: { title: { display: true, text: "Sale conversion %" }, beginAtZero: true, ticks: { callback: function(v) { return v + "%"; } } },
+        x: { title: { display: true, text: "Call length" } }
+      },
+      plugins: {
+        legend: { position: "right" },
+        tooltip: {
+          callbacks: {
+            label: function(ctx) {
+              var v = ctx.parsed.y;
+              var label = ctx.dataset.label;
+              if (v === null || v === undefined) return label + ": no data";
+              var bucket = buckets[ctx.dataIndex];
+              if (label === "Team average") {
+                var t = teamLookup[bucket];
+                return label + ": " + v.toFixed(1) + "% (" + (t ? t.sales + "/" + t.total : "?") + ")";
+              } else {
+                var r = lookup[label + "|" + bucket];
+                return label + ": " + v.toFixed(1) + "% (" + (r ? r.sales + "/" + r.total : "?") + ")";
+              }
+            }
+          }
+        },
+        datalabels: {
+          display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] !== null; },
+          color: function(ctx) { return ctx.dataset.label === "Team average" ? "rgba(82,42,16,0.6)" : ctx.dataset.borderColor; },
+          anchor: "end", align: "top", offset: 4,
+          font: { family: 'Bricolage Grotesque', size: 9, weight: "bold" },
+          formatter: function(v) { return v === null ? "" : Math.round(v) + "%"; }
+        }
+      }
+    }
+  });
+}
+
+function renderQaOutcomeHistogram() {
+  var d = qaData();
+  var rows = d.talk_time_by_agent_outcome || [];
+  var sel = document.getElementById("qaHistAgentSelect");
+  var picked = sel ? sel.value : "__team__";
+  var outcomes = ["Sale", "Convertible", "Bad Data", "Not Spoken", "N/A"];
+  var bins = ["bin_0_1m", "bin_1_3m", "bin_3_5m", "bin_5_10m", "bin_10m_plus"];
+  var binLabels = ["0-1m", "1-3m", "3-5m", "5-10m", "10m+"];
+
+  // Aggregate
+  var agg = {}; outcomes.forEach(function(o) { agg[o] = { bin_0_1m: 0, bin_1_3m: 0, bin_3_5m: 0, bin_5_10m: 0, bin_10m_plus: 0 }; });
+  rows.forEach(function(r) {
+    if (picked !== "__team__" && r.agent !== picked) return;
+    if (!agg[r.outcome]) return;
+    bins.forEach(function(b) { agg[r.outcome][b] += r[b] || 0; });
+  });
+
+  var datasets = outcomes.map(function(o) {
+    return { label: o, backgroundColor: QA_OUTCOME_COLORS[o], data: bins.map(function(b) { return agg[o][b]; }) };
+  });
+  qaDestroyChart("outcomeHist");
+  qaCharts.outcomeHist = new Chart(document.getElementById("qaOutcomeHistogram"), {
+    type: "bar",
+    data: { labels: binLabels, datasets: datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: {
+        x: { stacked: true, title: { display: true, text: "Talk Time Bin" } },
+        y: { stacked: true, title: { display: true, text: "Call Count" }, beginAtZero: true }
+      },
+      plugins: {
+        legend: { position: "top" },
+        title: { display: true, text: (picked === "__team__" ? "All Agents" : picked) },
+        datalabels: {
+          display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 15; },
+          color: "#fff",
+          font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" },
+          anchor: "center",
+          align: "center",
+          formatter: function(v) { return v.toLocaleString(); }
+        }
+      }
+    }
+  });
+}
+
+// --- Sub-tab 4: Attempts Analysis ----------------------------
+
+var QA_ATTEMPTS = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "10+"];
+var QA_PALETTE = ["#A43260", "#10507C", "#ED6961", "#2E7D32", "#F1AEAF", "#80254A", "#9BC3FE", "#522A10", "#FFD54D", "#B0B0B0", "#663399", "#FF7F50", "#4682B4", "#20B2AA", "#DAA520", "#8B4513", "#6A5ACD", "#008B8B"];
+
+function renderQaAttempts() {
+  var d = qaData();
+  var teamRows = d.outcome_by_attempt || [];
+  var outcomes = ["Sale", "Convertible", "Bad Data", "Not Spoken", "N/A"];
+
+  // ---- Team outcome by attempt (stacked bar, extended to 10+) ----
+  var teamLookup = {};
+  teamRows.forEach(function(r) { teamLookup[r.attempts_bin + "|" + r.outcome] = r.count; });
+  var teamDatasets = outcomes.map(function(o) {
+    return { label: o, backgroundColor: QA_OUTCOME_COLORS[o], data: QA_ATTEMPTS.map(function(a) { return teamLookup[a + "|" + o] || 0; }) };
+  });
+  qaDestroyChart("obyAttempt");
+  qaCharts.obyAttempt = new Chart(document.getElementById("qaOutcomeByAttempt"), {
+    type: "bar",
+    data: { labels: QA_ATTEMPTS.map(function(a) { return "Attempt " + a; }), datasets: teamDatasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: { x: { stacked: true }, y: { stacked: true, beginAtZero: true, title: { display: true, text: "Call Count" } } },
+      plugins: {
+        legend: { position: "top" },
+        datalabels: {
+          display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] >= 80; },
+          color: "#fff",
+          font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" },
+          anchor: "center",
+          align: "center",
+          formatter: function(v) { return v.toLocaleString(); }
+        }
+      }
+    }
+  });
+
+  // Ensure agent checkbox picker is populated
+  if (!qaAttemptsPickerInitialised) {
+    var rows = d.talk_time_by_attempts_outcome || [];
+    var aset = {};
+    rows.forEach(function(r) { aset[r.agent] = true; });
+    var agents = Object.keys(aset).sort();
+    // Default: top 5 agents by total call volume across all outcomes
+    var totals = {};
+    rows.forEach(function(r) { totals[r.agent] = (totals[r.agent] || 0) + r.count; });
+    var top = agents.slice().sort(function(a, b) { return (totals[b] || 0) - (totals[a] || 0); }).slice(0, 5);
+    top.forEach(function(a) { qaAttemptsSelectedAgents[a] = true; });
+    qaRenderAgentPicker("qaAttemptsAgentPicker", agents, qaAttemptsSelectedAgents, "qaAttemptsToggle");
+    qaAttemptsPickerInitialised = true;
+  }
+
+  renderQaAttemptsChart();
+}
+
+function qaAttemptsToggle(name) {
+  if (qaAttemptsSelectedAgents[name]) delete qaAttemptsSelectedAgents[name];
+  else qaAttemptsSelectedAgents[name] = true;
+  qaRepaintAgentPicker("qaAttemptsAgentPicker", qaAttemptsSelectedAgents);
+  renderQaAttemptsChart();
+}
+function qaAttemptsSelectAll() {
+  var d = qaData(); var rows = d.talk_time_by_attempts_outcome || [];
+  rows.forEach(function(r) { qaAttemptsSelectedAgents[r.agent] = true; });
+  qaRepaintAgentPicker("qaAttemptsAgentPicker", qaAttemptsSelectedAgents);
+  renderQaAttemptsChart();
+}
+function qaAttemptsSelectNone() {
+  qaAttemptsSelectedAgents = {};
+  qaRepaintAgentPicker("qaAttemptsAgentPicker", qaAttemptsSelectedAgents);
+  renderQaAttemptsChart();
+}
+function qaAttemptsSelectTop5() {
+  var d = qaData();
+  var rows = d.talk_time_by_attempts_outcome || [];
+  var totals = {};
+  rows.forEach(function(r) { totals[r.agent] = (totals[r.agent] || 0) + r.count; });
+  qaAttemptsSelectedAgents = {};
+  Object.keys(totals).sort(function(a, b) { return totals[b] - totals[a]; }).slice(0, 5).forEach(function(a) { qaAttemptsSelectedAgents[a] = true; });
+  qaRepaintAgentPicker("qaAttemptsAgentPicker", qaAttemptsSelectedAgents);
+  renderQaAttemptsChart();
+}
+
+function renderQaAttemptsChart() {
+  var d = qaData();
+  var rows = d.talk_time_by_attempts_outcome || [];
+  var sel = document.getElementById("qaAttemptOutcomeSelect");
+  var outcome = sel ? sel.value : "Sale";
+
+  var lookup = {};
+  rows.forEach(function(r) { lookup[r.agent + "|" + r.attempts_bin + "|" + r.outcome] = r; });
+
+  var agents = Object.keys(qaAttemptsSelectedAgents).filter(function(a) { return qaAttemptsSelectedAgents[a]; }).sort();
+
+  var datasets = agents.map(function(a, i) {
+    // Convert seconds to minutes on the y-axis
+    return {
+      label: a,
+      borderColor: QA_PALETTE[i % QA_PALETTE.length],
+      backgroundColor: QA_PALETTE[i % QA_PALETTE.length],
+      data: QA_ATTEMPTS.map(function(att) { var r = lookup[a + "|" + att + "|" + outcome]; return r && r.count > 0 ? r.avg_talk / 60 : null; }),
+      spanGaps: true,
+      tension: 0.2
+    };
+  });
+
+  qaDestroyChart("attemptsChart");
+  qaCharts.attemptsChart = new Chart(document.getElementById("qaAttemptsChart"), {
+    type: "line",
+    data: { labels: QA_ATTEMPTS.map(function(a) { return "Attempt " + a; }), datasets: datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: { y: { title: { display: true, text: "Avg Talk (min) for " + outcome }, beginAtZero: true } },
+      plugins: {
+        legend: { position: "right" },
+        tooltip: { callbacks: { label: function(ctx) { var s = ctx.parsed.y * 60; return ctx.dataset.label + ": " + qaSecs(s); } } },
+        datalabels: {
+          display: function(ctx) { return ctx.dataset.data[ctx.dataIndex] !== null; },
+          color: function(ctx) { return ctx.dataset.borderColor; },
+          anchor: "end", align: "top", offset: 4,
+          font: { family: 'Bricolage Grotesque', size: 9, weight: "bold" },
+          formatter: function(v) { return v === null ? "" : v.toFixed(1) + "m"; }
+        }
+      }
+    }
+  });
+}
+
+// --- Sub-tab 5: Agent Deep Dive ------------------------------
+
+function renderQaScorecard() {
+  var d = qaData();
+  var byCode = d.talk_time_by_agent_code || [];
+  var baseline = d.talk_time_team_code_baseline || [];
+
+  var agentsSet = {};
+  byCode.forEach(function(r) { agentsSet[r.agent] = true; });
+  var agents = Object.keys(agentsSet).sort();
+  var sel = document.getElementById("qaScorecardAgentSelect");
+  var currentVal = sel.value || agents[0];
+  var options = "";
+  agents.forEach(function(a) { options += '<option value="' + a + '">' + a + '</option>'; });
+  sel.innerHTML = options;
+  sel.value = agents.indexOf(currentVal) >= 0 ? currentVal : agents[0];
+  var agent = sel.value;
+
+  var baseByCode = {};
+  baseline.forEach(function(b) { baseByCode[b.code] = b; });
+
+  var myRows = byCode.filter(function(r) { return r.agent === agent; });
+
+  // Metric strip
+  var totalCalls = 0, totalTalk = 0, longestCode = "—", longestAvg = 0;
+  myRows.forEach(function(r) { totalCalls += r.count; totalTalk += r.avg_talk * r.count; if (r.avg_talk > longestAvg) { longestAvg = r.avg_talk; longestCode = r.code; } });
+  var strip = document.getElementById("qaScorecardMetricStrip");
+  var skewed = (d.skewed_combos || []).filter(function(c) { return c.agent === agent; }).length;
+  strip.innerHTML =
+    '<div class="qa-metric-tile"><div class="label">Total Calls</div><div class="value">' + totalCalls.toLocaleString() + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">Avg Talk</div><div class="value">' + (totalCalls ? qaSecs(totalTalk / totalCalls) : "—") + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">Longest Avg Code</div><div class="value">' + longestCode + '</div></div>' +
+    '<div class="qa-metric-tile"><div class="label">Skewed Combos</div><div class="value ' + (skewed > 0 ? "warn" : "") + '">' + skewed + '</div></div>';
+
+  // Group rows by Outcome, ordered Sale > Convertible > Bad Data > Not Spoken > N/A > Unknown
+  var byOutcome = {};
+  QA_OUTCOME_ORDER.forEach(function(o) { byOutcome[o] = []; });
+  myRows.forEach(function(r) {
+    var o = qaOutcomeForCode(r.code);
+    if (!byOutcome[o]) byOutcome[o] = [];
+    byOutcome[o].push(r);
+  });
+
+  var outcomeColorMap = {
+    "Sale": "#2E7D32", "Convertible": "#A43260", "Bad Data": "#ED6961",
+    "Not Spoken": "#9BC3FE", "N/A": "#B0B0B0", "Unknown": "#E0E0E0"
+  };
+
+  var body = "";
+  QA_OUTCOME_ORDER.forEach(function(o) {
+    var group = byOutcome[o];
+    if (!group || !group.length) return;
+    group.sort(function(a, b) { return b.count - a.count; });
+    body += '<tr style="background:' + outcomeColorMap[o] + '20;">'
+      + '<td colspan="7" style="padding:10px 16px;font-family:\'Bricolage Grotesque\',sans-serif;font-weight:700;color:' + outcomeColorMap[o] + ';text-transform:uppercase;letter-spacing:0.5px;font-size:11px;">'
+      + o + ' — ' + group.length + ' codes, ' + group.reduce(function(s, r) { return s + r.count; }, 0) + ' calls'
+      + '</td></tr>';
+    group.forEach(function(r) {
+      var team = baseByCode[r.code];
+      var teamAvg = (team && team.count >= 20) ? team.avg_talk : null;
+      var dev = teamAvg !== null ? ((r.avg_talk - teamAvg) / teamAvg) * 100 : null;
+      var devStr = dev !== null ? ((dev > 0 ? "+" : "") + dev.toFixed(1) + "%") : "—";
+      var devColor = dev === null ? "var(--bb-brown-light)" : (Math.abs(dev) >= 25 ? (dev > 0 ? "var(--bb-coral)" : "var(--bb-navy)") : "var(--bb-brown)");
+      var flag = '<span class="qa-flag-badge clean">clean</span>';
+      if (r.count >= 5 && teamAvg !== null && Math.abs(dev) >= 25) {
+        flag = dev > 0 ? '<span class="qa-flag-badge skew-high">Too Long</span>' : '<span class="qa-flag-badge skew-low">Too Short</span>';
+      }
+      body += '<tr>'
+        + '<td><strong>' + r.code + '</strong></td>'
+        + '<td>' + o + '</td>'
+        + '<td>' + r.count + '</td>'
+        + '<td>' + qaSecs(r.avg_talk) + '</td>'
+        + '<td>' + (teamAvg !== null ? qaSecs(teamAvg) : "—") + '</td>'
+        + '<td style="color:' + devColor + ';"><strong>' + devStr + '</strong></td>'
+        + '<td>' + flag + '</td>'
+        + '</tr>';
+    });
+  });
+  if (!body) body = '<tr><td colspan="7" style="text-align:center;color:var(--bb-brown-light);padding:24px;">No calls with talk time for this agent.</td></tr>';
+  document.getElementById("qaScorecardBody").innerHTML = body;
+  document.getElementById("qaScorecardHeader").textContent = "Per-code talk time vs team — " + agent;
+
+  // Populate code selector for trend
+  var codeSel = document.getElementById("qaScorecardCodeSelect");
+  var currentCode = codeSel.value;
+  var codeOptions = "";
+  myRows.forEach(function(r) { codeOptions += '<option value="' + r.code + '">' + r.code + ' (' + r.count + ' calls)</option>'; });
+  codeSel.innerHTML = codeOptions;
+  if (myRows.some(function(r) { return r.code === currentCode; })) codeSel.value = currentCode;
+  renderQaScorecardTrend();
+}
+
+// Outcome mapping mirrors Marro Airtable formula (fldLrGNJICkEm5CkM)
+var QA_OUTCOME_MAP = {
+  "SALE": "Sale", "SALEOPTIN": "Sale", "REACTSALE": "Sale",
+  "CALLBACK": "Convertible", "PAYISSUE": "Convertible", "FREEZSPACE": "Convertible", "FUSSY": "Convertible", "HEALTH": "Convertible", "NI": "Convertible", "MEDIFOOD": "Convertible", "TOOEXP": "Convertible", "LOGINISSUE": "Convertible",
+  "MAXTO": "Not Spoken", "LIVEANS": "Not Spoken", "XFER": "Not Spoken", "SYSDROP": "Not Spoken", "NOCPA": "Not Spoken", "SYSANSMACH": "Not Spoken", "SYSOI": "Not Spoken", "SYSBUSY": "Not Spoken", "AGAM": "Not Spoken", "SYSNOANS": "Not Spoken", "YANK": "Not Spoken", "CBNA": "Not Spoken", "ABANDON": "Not Spoken", "SCREENING": "Not Spoken", "REDIAL": "Not Spoken", "SILENT": "Not Spoken",
+  "DNC": "Bad Data", "NOSALEOPIN": "Bad Data", "WRONGNO": "Bad Data", "VMINBOUND": "Bad Data", "LANGBAR": "Bad Data", "UNDER18": "Bad Data", "UNTER18": "Bad Data", "NOCAT": "Bad Data", "TPSDNC": "Bad Data", "DOGDIED": "Bad Data", "VULNERABLE": "Bad Data", "EXISTING": "Bad Data", "NADELIVERY": "Bad Data", "FREEONLY": "Bad Data", "NOTOWNER": "Bad Data",
+  "AUDIOISSUE": "N/A", "HANGUP": "N/A", "HUNGUP": "N/A", "INBOUND": "N/A", "NOTENTERED": "N/A", "TECHISSUE": "N/A", "CATPASSED": "N/A", "CODERUNNER": "N/A"
+};
+function qaOutcomeForCode(code) { return QA_OUTCOME_MAP[code] || "N/A"; }
+
+function renderQaScorecardTrend() {
+  var d = qaData();
+  var weekly = d.talk_time_weekly_by_code || [];
+  var baseline = d.talk_time_team_code_baseline || [];
+  var agent = document.getElementById("qaScorecardAgentSelect").value;
+  var code = document.getElementById("qaScorecardCodeSelect").value;
+  if (!agent || !code) { qaDestroyChart("scoreTrend"); return; }
+
+  var mine = weekly.filter(function(r) { return r.agent === agent && r.code === code; });
+  mine.sort(function(a, b) { return (a.week || "").localeCompare(b.week || ""); });
+  var labels = mine.map(function(r) { return r.week; });
+  // Convert seconds to minutes for the Y-axis; keep original seconds for tooltip
+  var data = mine.map(function(r) { return r.avg_talk / 60; });
+
+  var teamAvgSec = null;
+  baseline.forEach(function(b) { if (b.code === code && b.count >= 20) teamAvgSec = b.avg_talk; });
+  var teamAvgMin = teamAvgSec !== null ? teamAvgSec / 60 : null;
+
+  var datasets = [{ label: agent, borderColor: "#A43260", backgroundColor: "#A43260", data: data, tension: 0.2, pointRadius: 4 }];
+  if (teamAvgMin !== null) {
+    datasets.push({
+      label: "Team avg (" + qaSecs(teamAvgSec) + ")",
+      data: labels.map(function() { return teamAvgMin; }),
+      borderColor: "rgba(82,42,16,0.5)", borderDash: [5, 5], pointRadius: 0, fill: false
+    });
+  }
+
+  qaDestroyChart("scoreTrend");
+  qaCharts.scoreTrend = new Chart(document.getElementById("qaScorecardTrendChart"), {
+    type: "line",
+    data: { labels: labels, datasets: datasets },
+    options: {
+      responsive: true, maintainAspectRatio: false,
+      scales: { y: { title: { display: true, text: "Avg Talk (min)" }, beginAtZero: true } },
+      plugins: {
+        legend: { position: "top" },
+        tooltip: { callbacks: { label: function(ctx) { var secs = ctx.parsed.y * 60; return ctx.dataset.label + ": " + qaSecs(secs); } } },
+        datalabels: {
+          display: function(ctx) { return ctx.datasetIndex === 0 && ctx.dataset.data[ctx.dataIndex] !== null; },
+          color: "#522A10",
+          anchor: "end", align: "top", offset: 4,
+          font: { family: 'Bricolage Grotesque', size: 10, weight: "bold" },
+          formatter: function(v) { return v === null ? "" : v.toFixed(1) + "m"; }
+        }
+      }
+    }
+  });
+}
+
 
 // ===== INIT =====
 function init() {
