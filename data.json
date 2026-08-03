@@ -1,184 +1,8 @@
 {
-  "last_updated": "2026-08-02T11:15:32Z",
-  "period_start": "2026-05-03",
-  "period_end": "2026-08-02",
+  "last_updated": "2026-08-03T12:54:28Z",
+  "period_start": "2026-05-04",
+  "period_end": "2026-08-03",
   "weekly": [
-    {
-      "agent_name": "Braden Lee",
-      "period_start": "2026-05-04",
-      "total_spoken": 85,
-      "sales": 14,
-      "bad_data": 22,
-      "convertible_total": 49,
-      "payissue": 1,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 3,
-      "tooexp": 2,
-      "fussy": 0,
-      "ni": 43
-    },
-    {
-      "agent_name": "Charlene Basbudak",
-      "period_start": "2026-05-04",
-      "total_spoken": 81,
-      "sales": 9,
-      "bad_data": 16,
-      "convertible_total": 56,
-      "payissue": 2,
-      "freezspace": 0,
-      "health": 3,
-      "callback": 0,
-      "medifood": 1,
-      "tooexp": 7,
-      "fussy": 1,
-      "ni": 42
-    },
-    {
-      "agent_name": "Cian Rees",
-      "period_start": "2026-05-04",
-      "total_spoken": 38,
-      "sales": 12,
-      "bad_data": 16,
-      "convertible_total": 10,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 1,
-      "fussy": 0,
-      "ni": 6
-    },
-    {
-      "agent_name": "Clementine Drake",
-      "period_start": "2026-05-04",
-      "total_spoken": 55,
-      "sales": 15,
-      "bad_data": 16,
-      "convertible_total": 24,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 1,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 23
-    },
-    {
-      "agent_name": "Donna Wallington",
-      "period_start": "2026-05-04",
-      "total_spoken": 43,
-      "sales": 8,
-      "bad_data": 17,
-      "convertible_total": 18,
-      "payissue": 1,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 17
-    },
-    {
-      "agent_name": "Franco Leto",
-      "period_start": "2026-05-04",
-      "total_spoken": 110,
-      "sales": 17,
-      "bad_data": 51,
-      "convertible_total": 42,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 2,
-      "fussy": 0,
-      "ni": 40
-    },
-    {
-      "agent_name": "Jacob Jackson",
-      "period_start": "2026-05-04",
-      "total_spoken": 10,
-      "sales": 0,
-      "bad_data": 2,
-      "convertible_total": 8,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 3,
-      "fussy": 0,
-      "ni": 5
-    },
-    {
-      "agent_name": "Jennifer Keegan",
-      "period_start": "2026-05-04",
-      "total_spoken": 1,
-      "sales": 0,
-      "bad_data": 0,
-      "convertible_total": 1,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 1
-    },
-    {
-      "agent_name": "Morris Christian",
-      "period_start": "2026-05-04",
-      "total_spoken": 52,
-      "sales": 4,
-      "bad_data": 28,
-      "convertible_total": 20,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 5,
-      "medifood": 2,
-      "tooexp": 2,
-      "fussy": 0,
-      "ni": 11
-    },
-    {
-      "agent_name": "Terrence Ndukwe",
-      "period_start": "2026-05-04",
-      "total_spoken": 123,
-      "sales": 17,
-      "bad_data": 56,
-      "convertible_total": 50,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 1,
-      "medifood": 1,
-      "tooexp": 4,
-      "fussy": 2,
-      "ni": 42
-    },
-    {
-      "agent_name": "William Watson",
-      "period_start": "2026-05-04",
-      "total_spoken": 1,
-      "sales": 1,
-      "bad_data": 0,
-      "convertible_total": 0,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 0
-    },
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-05-11",
@@ -2086,8 +1910,8 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-07-27",
-      "total_spoken": 49,
-      "sales": 11,
+      "total_spoken": 48,
+      "sales": 10,
       "bad_data": 13,
       "convertible_total": 25,
       "payissue": 1,
@@ -2118,8 +1942,8 @@
     {
       "agent_name": "Cian Rees",
       "period_start": "2026-07-27",
-      "total_spoken": 31,
-      "sales": 16,
+      "total_spoken": 30,
+      "sales": 15,
       "bad_data": 7,
       "convertible_total": 8,
       "payissue": 0,
@@ -2472,8 +2296,8 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-07-01",
-      "total_spoken": 503,
-      "sales": 80,
+      "total_spoken": 502,
+      "sales": 79,
       "bad_data": 191,
       "convertible_total": 232,
       "payissue": 6,
@@ -2504,8 +2328,8 @@
     {
       "agent_name": "Cian Rees",
       "period_start": "2026-07-01",
-      "total_spoken": 199,
-      "sales": 79,
+      "total_spoken": 198,
+      "sales": 78,
       "bad_data": 59,
       "convertible_total": 61,
       "payissue": 1,
@@ -2663,118 +2487,6 @@
     }
   ],
   "weekly_last_call": [
-    {
-      "agent_name": "Braden Lee",
-      "period_start": "2026-05-04",
-      "total_spoken": 64,
-      "sales": 12,
-      "bad_data": 18,
-      "convertible_total": 34,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 1,
-      "medifood": 3,
-      "tooexp": 1,
-      "fussy": 0,
-      "ni": 29
-    },
-    {
-      "agent_name": "Charlene Basbudak",
-      "period_start": "2026-05-04",
-      "total_spoken": 58,
-      "sales": 11,
-      "bad_data": 12,
-      "convertible_total": 35,
-      "payissue": 1,
-      "freezspace": 0,
-      "health": 2,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 4,
-      "fussy": 2,
-      "ni": 26
-    },
-    {
-      "agent_name": "Cian Rees",
-      "period_start": "2026-05-04",
-      "total_spoken": 14,
-      "sales": 4,
-      "bad_data": 6,
-      "convertible_total": 4,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 1,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 1
-    },
-    {
-      "agent_name": "Clementine Drake",
-      "period_start": "2026-05-04",
-      "total_spoken": 43,
-      "sales": 13,
-      "bad_data": 13,
-      "convertible_total": 17,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 1,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 16
-    },
-    {
-      "agent_name": "Donna Wallington",
-      "period_start": "2026-05-04",
-      "total_spoken": 41,
-      "sales": 9,
-      "bad_data": 16,
-      "convertible_total": 16,
-      "payissue": 2,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 0,
-      "medifood": 0,
-      "tooexp": 1,
-      "fussy": 0,
-      "ni": 13
-    },
-    {
-      "agent_name": "Franco Leto",
-      "period_start": "2026-05-04",
-      "total_spoken": 69,
-      "sales": 14,
-      "bad_data": 31,
-      "convertible_total": 24,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 1,
-      "medifood": 1,
-      "tooexp": 0,
-      "fussy": 0,
-      "ni": 22
-    },
-    {
-      "agent_name": "Terrence Ndukwe",
-      "period_start": "2026-05-04",
-      "total_spoken": 89,
-      "sales": 10,
-      "bad_data": 52,
-      "convertible_total": 27,
-      "payissue": 0,
-      "freezspace": 0,
-      "health": 0,
-      "callback": 1,
-      "medifood": 0,
-      "tooexp": 2,
-      "fussy": 0,
-      "ni": 24
-    },
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-05-11",
@@ -4330,8 +4042,8 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-07-27",
-      "total_spoken": 127,
-      "sales": 19,
+      "total_spoken": 126,
+      "sales": 18,
       "bad_data": 36,
       "convertible_total": 72,
       "payissue": 2,
@@ -4362,8 +4074,8 @@
     {
       "agent_name": "Cian Rees",
       "period_start": "2026-07-27",
-      "total_spoken": 73,
-      "sales": 25,
+      "total_spoken": 72,
+      "sales": 24,
       "bad_data": 19,
       "convertible_total": 29,
       "payissue": 0,
@@ -4716,8 +4428,8 @@
     {
       "agent_name": "Braden Lee",
       "period_start": "2026-07-01",
-      "total_spoken": 582,
-      "sales": 89,
+      "total_spoken": 581,
+      "sales": 88,
       "bad_data": 216,
       "convertible_total": 277,
       "payissue": 6,
@@ -4748,8 +4460,8 @@
     {
       "agent_name": "Cian Rees",
       "period_start": "2026-07-01",
-      "total_spoken": 227,
-      "sales": 86,
+      "total_spoken": 226,
+      "sales": 85,
       "bad_data": 71,
       "convertible_total": 70,
       "payissue": 1,
@@ -4909,8 +4621,8 @@
   "list_summary": [
     {
       "list_id": 804,
-      "total_spoken": 6614,
-      "sales": 1408,
+      "total_spoken": 6613,
+      "sales": 1407,
       "bad_data": 2234,
       "convertible_total": 2972
     },
@@ -4951,61 +4663,13 @@
     },
     {
       "list_id": 1013,
-      "total_spoken": 1711,
-      "sales": 248,
+      "total_spoken": 1710,
+      "sales": 247,
       "bad_data": 645,
       "convertible_total": 818
     }
   ],
   "list_weekly": [
-    {
-      "list_id": 804,
-      "period_start": "2026-05-04",
-      "total_spoken": 263,
-      "sales": 56,
-      "bad_data": 108,
-      "convertible_total": 99
-    },
-    {
-      "list_id": 805,
-      "period_start": "2026-05-04",
-      "total_spoken": 15,
-      "sales": 1,
-      "bad_data": 8,
-      "convertible_total": 6
-    },
-    {
-      "list_id": 882,
-      "period_start": "2026-05-04",
-      "total_spoken": 16,
-      "sales": 2,
-      "bad_data": 4,
-      "convertible_total": 10
-    },
-    {
-      "list_id": 899,
-      "period_start": "2026-05-04",
-      "total_spoken": 1,
-      "sales": 1,
-      "bad_data": 0,
-      "convertible_total": 0
-    },
-    {
-      "list_id": 962,
-      "period_start": "2026-05-04",
-      "total_spoken": 1,
-      "sales": 0,
-      "bad_data": 0,
-      "convertible_total": 1
-    },
-    {
-      "list_id": 1013,
-      "period_start": "2026-05-04",
-      "total_spoken": 82,
-      "sales": 13,
-      "bad_data": 28,
-      "convertible_total": 41
-    },
     {
       "list_id": 804,
       "period_start": "2026-05-11",
@@ -5393,8 +5057,8 @@
     {
       "list_id": 804,
       "period_start": "2026-07-27",
-      "total_spoken": 767,
-      "sales": 135,
+      "total_spoken": 766,
+      "sales": 134,
       "bad_data": 209,
       "convertible_total": 423
     },
@@ -5417,8 +5081,8 @@
     {
       "list_id": 1013,
       "period_start": "2026-07-27",
-      "total_spoken": 150,
-      "sales": 25,
+      "total_spoken": 149,
+      "sales": 24,
       "bad_data": 46,
       "convertible_total": 79
     }
@@ -5426,24 +5090,24 @@
   "list_penetration": [
     {
       "list_id": "804",
-      "total_leads": 21949,
-      "spoken_to": 6637,
-      "not_spoken": 14361,
-      "na": 951
+      "total_leads": 22149,
+      "spoken_to": 6636,
+      "not_spoken": 14354,
+      "na": 1159
     },
     {
       "list_id": "1013",
-      "total_leads": 5851,
-      "spoken_to": 1718,
+      "total_leads": 5898,
+      "spoken_to": 1717,
       "not_spoken": 3849,
-      "na": 284
+      "na": 332
     },
     {
       "list_id": "805",
       "total_leads": 1557,
       "spoken_to": 485,
-      "not_spoken": 1009,
-      "na": 63
+      "not_spoken": 1008,
+      "na": 64
     },
     {
       "list_id": "882",
@@ -5475,54 +5139,6 @@
     }
   ],
   "penetration_weekly": [
-    {
-      "list_id": "1013",
-      "period_start": "2026-05-04",
-      "total_leads": 382,
-      "spoken_to": 144,
-      "not_spoken": 228,
-      "na": 10
-    },
-    {
-      "list_id": "804",
-      "period_start": "2026-05-04",
-      "total_leads": 1340,
-      "spoken_to": 408,
-      "not_spoken": 886,
-      "na": 46
-    },
-    {
-      "list_id": "805",
-      "period_start": "2026-05-04",
-      "total_leads": 103,
-      "spoken_to": 23,
-      "not_spoken": 75,
-      "na": 5
-    },
-    {
-      "list_id": "882",
-      "period_start": "2026-05-04",
-      "total_leads": 41,
-      "spoken_to": 22,
-      "not_spoken": 17,
-      "na": 2
-    },
-    {
-      "list_id": "901",
-      "period_start": "2026-05-04",
-      "total_leads": 1,
-      "spoken_to": 1,
-      "not_spoken": 0,
-      "na": 0
-    },
-    {
-      "list_id": "962",
-      "period_start": "2026-05-04",
-      "total_leads": 6,
-      "spoken_to": 1,
-      "not_spoken": 5,
-      "na": 0
-    },
     {
       "list_id": "1013",
       "period_start": "2026-05-11",
@@ -5816,8 +5432,8 @@
       "period_start": "2026-06-29",
       "total_leads": 1856,
       "spoken_to": 635,
-      "not_spoken": 1154,
-      "na": 67
+      "not_spoken": 1153,
+      "na": 68
     },
     {
       "list_id": "805",
@@ -5856,8 +5472,8 @@
       "period_start": "2026-07-06",
       "total_leads": 1662,
       "spoken_to": 563,
-      "not_spoken": 1054,
-      "na": 45
+      "not_spoken": 1051,
+      "na": 48
     },
     {
       "list_id": "805",
@@ -5896,8 +5512,8 @@
       "period_start": "2026-07-13",
       "total_leads": 1651,
       "spoken_to": 535,
-      "not_spoken": 1082,
-      "na": 34
+      "not_spoken": 1081,
+      "na": 35
     },
     {
       "list_id": "805",
@@ -5928,16 +5544,16 @@
       "period_start": "2026-07-20",
       "total_leads": 1556,
       "spoken_to": 460,
-      "not_spoken": 1041,
-      "na": 55
+      "not_spoken": 1040,
+      "na": 56
     },
     {
       "list_id": "805",
       "period_start": "2026-07-20",
       "total_leads": 149,
       "spoken_to": 41,
-      "not_spoken": 98,
-      "na": 10
+      "not_spoken": 97,
+      "na": 11
     },
     {
       "list_id": "882",
@@ -5950,18 +5566,18 @@
     {
       "list_id": "1013",
       "period_start": "2026-07-27",
-      "total_leads": 296,
-      "spoken_to": 50,
+      "total_leads": 342,
+      "spoken_to": 49,
       "not_spoken": 163,
-      "na": 83
+      "na": 130
     },
     {
       "list_id": "804",
       "period_start": "2026-07-27",
-      "total_leads": 1477,
-      "spoken_to": 286,
-      "not_spoken": 867,
-      "na": 324
+      "total_leads": 1664,
+      "spoken_to": 285,
+      "not_spoken": 866,
+      "na": 513
     },
     {
       "list_id": "805",
@@ -5978,6 +5594,22 @@
       "spoken_to": 2,
       "not_spoken": 3,
       "na": 0
+    },
+    {
+      "list_id": "1013",
+      "period_start": "2026-08-03",
+      "total_leads": 1,
+      "spoken_to": 0,
+      "not_spoken": 0,
+      "na": 1
+    },
+    {
+      "list_id": "804",
+      "period_start": "2026-08-03",
+      "total_leads": 13,
+      "spoken_to": 0,
+      "not_spoken": 0,
+      "na": 13
     }
   ],
   "penetration_monthly": [
@@ -6033,25 +5665,25 @@
       "list_id": "1013",
       "period_start": "2026-07-01",
       "total_leads": 1810,
-      "spoken_to": 544,
+      "spoken_to": 543,
       "not_spoken": 1190,
-      "na": 76
+      "na": 77
     },
     {
       "list_id": "804",
       "period_start": "2026-07-01",
       "total_leads": 7396,
-      "spoken_to": 2269,
-      "not_spoken": 4837,
-      "na": 290
+      "spoken_to": 2268,
+      "not_spoken": 4830,
+      "na": 298
     },
     {
       "list_id": "805",
       "period_start": "2026-07-01",
       "total_leads": 670,
       "spoken_to": 225,
-      "not_spoken": 415,
-      "na": 30
+      "not_spoken": 414,
+      "na": 31
     },
     {
       "list_id": "882",
@@ -6072,18 +5704,18 @@
     {
       "list_id": "1013",
       "period_start": "2026-08-01",
-      "total_leads": 55,
+      "total_leads": 102,
       "spoken_to": 0,
       "not_spoken": 0,
-      "na": 55
+      "na": 102
     },
     {
       "list_id": "804",
       "period_start": "2026-08-01",
-      "total_leads": 221,
+      "total_leads": 421,
       "spoken_to": 1,
       "not_spoken": 6,
-      "na": 214
+      "na": 414
     }
   ],
   "talk_time_by_agent_code": [
@@ -6209,9 +5841,9 @@
     {
       "agent": "Braden Lee",
       "code": "SALE",
-      "count": 215,
-      "avg_talk": 921.5,
-      "median_talk": 890.0
+      "count": 214,
+      "avg_talk": 924.5,
+      "median_talk": 891.0
     },
     {
       "agent": "Braden Lee",
@@ -6552,9 +6184,9 @@
     {
       "agent": "Cian Rees",
       "code": "SALE",
-      "count": 225,
-      "avg_talk": 897.0,
-      "median_talk": 908.0
+      "count": 224,
+      "avg_talk": 894.6,
+      "median_talk": 907.0
     },
     {
       "agent": "Cian Rees",
@@ -7259,7 +6891,7 @@
     {
       "agent": "Jacob Jackson",
       "code": "AGAM",
-      "count": 120,
+      "count": 119,
       "avg_talk": 7.2,
       "median_talk": 4.0
     },
@@ -7925,7 +7557,7 @@
   "talk_time_team_code_baseline": [
     {
       "code": "AGAM",
-      "count": 1431,
+      "count": 1430,
       "avg_talk": 9.3,
       "median_talk": 5.0
     },
@@ -8057,8 +7689,8 @@
     },
     {
       "code": "SALE",
-      "count": 1715,
-      "avg_talk": 961.9,
+      "count": 1713,
+      "avg_talk": 962.1,
       "median_talk": 911.0
     },
     {
@@ -8174,12 +7806,12 @@
     {
       "agent": "Braden Lee",
       "outcome": "Sale",
-      "count": 215,
-      "avg_talk": 921.5,
-      "median_talk": 890.0,
+      "count": 214,
+      "avg_talk": 924.5,
+      "median_talk": 891.0,
       "bin_0_1m": 0,
       "bin_1_3m": 19,
-      "bin_3_5m": 6,
+      "bin_3_5m": 5,
       "bin_5_10m": 15,
       "bin_10m_plus": 175
     },
@@ -8294,14 +7926,14 @@
     {
       "agent": "Cian Rees",
       "outcome": "Sale",
-      "count": 226,
-      "avg_talk": 898.2,
-      "median_talk": 910.0,
+      "count": 225,
+      "avg_talk": 895.8,
+      "median_talk": 908.0,
       "bin_0_1m": 2,
       "bin_1_3m": 21,
       "bin_3_5m": 15,
       "bin_5_10m": 19,
-      "bin_10m_plus": 169
+      "bin_10m_plus": 168
     },
     {
       "agent": "Clementine Drake",
@@ -8582,10 +8214,10 @@
     {
       "agent": "Jacob Jackson",
       "outcome": "Not Spoken",
-      "count": 139,
+      "count": 138,
       "avg_talk": 9.3,
       "median_talk": 4.0,
-      "bin_0_1m": 138,
+      "bin_0_1m": 137,
       "bin_1_3m": 1,
       "bin_3_5m": 0,
       "bin_5_10m": 0,
@@ -8947,8 +8579,8 @@
       "agent": "Braden Lee",
       "attempts_bin": "10+",
       "outcome": "Sale",
-      "count": 16,
-      "avg_talk": 729.8
+      "count": 15,
+      "avg_talk": 759.4
     },
     {
       "agent": "Braden Lee",
@@ -9563,8 +9195,8 @@
       "agent": "Cian Rees",
       "attempts_bin": "1",
       "outcome": "Sale",
-      "count": 57,
-      "avg_talk": 1124.0
+      "count": 56,
+      "avg_talk": 1118.5
     },
     {
       "agent": "Cian Rees",
@@ -11250,8 +10882,8 @@
       "agent": "Jacob Jackson",
       "attempts_bin": "10+",
       "outcome": "Not Spoken",
-      "count": 119,
-      "avg_talk": 8.5
+      "count": 118,
+      "avg_talk": 8.6
     },
     {
       "agent": "Jacob Jackson",
@@ -12622,7 +12254,7 @@
     {
       "attempts_bin": "1",
       "outcome": "Sale",
-      "count": 482
+      "count": 481
     },
     {
       "attempts_bin": "10",
@@ -12667,12 +12299,12 @@
     {
       "attempts_bin": "10+",
       "outcome": "Not Spoken",
-      "count": 1414
+      "count": 1413
     },
     {
       "attempts_bin": "10+",
       "outcome": "Sale",
-      "count": 109
+      "count": 108
     },
     {
       "attempts_bin": "2",
@@ -12876,104 +12508,6 @@
     }
   ],
   "talk_time_weekly_by_code": [
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "AGAM",
-      "count": 1,
-      "avg_talk": 10.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "CALLBACK",
-      "count": 1,
-      "avg_talk": 293.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "CATPASSED",
-      "count": 1,
-      "avg_talk": 19.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "EXISTING",
-      "count": 4,
-      "avg_talk": 207.8
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "FREEONLY",
-      "count": 5,
-      "avg_talk": 163.4
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "MEDIFOOD",
-      "count": 3,
-      "avg_talk": 70.3
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "NI",
-      "count": 29,
-      "avg_talk": 182.7
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "NOTOWNER",
-      "count": 1,
-      "avg_talk": 49.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "SALE",
-      "count": 12,
-      "avg_talk": 1105.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "TOOEXP",
-      "count": 1,
-      "avg_talk": 310.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "UNDER18",
-      "count": 1,
-      "avg_talk": 45.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "VULNERABLE",
-      "count": 2,
-      "avg_talk": 289.0
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "WRONGNO",
-      "count": 4,
-      "avg_talk": 25.2
-    },
-    {
-      "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "code": "XFER",
-      "count": 1,
-      "avg_talk": 1.0
-    },
     {
       "agent": "Braden Lee",
       "week": "2026-05-11",
@@ -14231,8 +13765,8 @@
       "agent": "Braden Lee",
       "week": "2026-07-27",
       "code": "SALE",
-      "count": 19,
-      "avg_talk": 889.7
+      "count": 18,
+      "avg_talk": 923.3
     },
     {
       "agent": "Braden Lee",
@@ -14275,76 +13809,6 @@
       "code": "WRONGNO",
       "count": 4,
       "avg_talk": 24.0
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "EXISTING",
-      "count": 3,
-      "avg_talk": 103.0
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "FUSSY",
-      "count": 2,
-      "avg_talk": 110.5
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "HEALTH",
-      "count": 2,
-      "avg_talk": 137.0
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "HUNGUP",
-      "count": 1,
-      "avg_talk": 45.0
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "NI",
-      "count": 26,
-      "avg_talk": 105.7
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "NOCAT",
-      "count": 2,
-      "avg_talk": 95.5
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "PAYISSUE",
-      "count": 1,
-      "avg_talk": 992.0
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "SALE",
-      "count": 11,
-      "avg_talk": 1234.3
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "TOOEXP",
-      "count": 4,
-      "avg_talk": 175.0
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "code": "WRONGNO",
-      "count": 7,
-      "avg_talk": 22.4
     },
     {
       "agent": "Charlene Basbudak",
@@ -15517,62 +14981,6 @@
     },
     {
       "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "DNC",
-      "count": 1,
-      "avg_talk": 64.0
-    },
-    {
-      "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "HEALTH",
-      "count": 1,
-      "avg_talk": 52.0
-    },
-    {
-      "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "LOGINISSUE",
-      "count": 2,
-      "avg_talk": 341.5
-    },
-    {
-      "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "NI",
-      "count": 1,
-      "avg_talk": 207.0
-    },
-    {
-      "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "SALE",
-      "count": 4,
-      "avg_talk": 612.0
-    },
-    {
-      "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "UNTER18",
-      "count": 2,
-      "avg_talk": 53.5
-    },
-    {
-      "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "VULNERABLE",
-      "count": 1,
-      "avg_talk": 44.0
-    },
-    {
-      "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "code": "WRONGNO",
-      "count": 2,
-      "avg_talk": 25.5
-    },
-    {
-      "agent": "Cian Rees",
       "week": "2026-05-11",
       "code": "AGAM",
       "count": 3,
@@ -16660,8 +16068,8 @@
       "agent": "Cian Rees",
       "week": "2026-07-27",
       "code": "SALE",
-      "count": 25,
-      "avg_talk": 898.2
+      "count": 24,
+      "avg_talk": 875.9
     },
     {
       "agent": "Cian Rees",
@@ -16690,76 +16098,6 @@
       "code": "WRONGNO",
       "count": 2,
       "avg_talk": 23.5
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "DNC",
-      "count": 2,
-      "avg_talk": 26.5
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "EXISTING",
-      "count": 2,
-      "avg_talk": 205.5
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "FREEONLY",
-      "count": 3,
-      "avg_talk": 118.3
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "HEALTH",
-      "count": 1,
-      "avg_talk": 104.0
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "LANGBAR",
-      "count": 1,
-      "avg_talk": 28.0
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "NI",
-      "count": 16,
-      "avg_talk": 279.6
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "NOTOWNER",
-      "count": 1,
-      "avg_talk": 381.0
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "SALE",
-      "count": 13,
-      "avg_talk": 1685.0
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "VULNERABLE",
-      "count": 2,
-      "avg_talk": 137.5
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "code": "WRONGNO",
-      "count": 2,
-      "avg_talk": 25.0
     },
     {
       "agent": "Clementine Drake",
@@ -17082,62 +16420,6 @@
       "code": "WRONGNO",
       "count": 2,
       "avg_talk": 20.5
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "DNC",
-      "count": 1,
-      "avg_talk": 26.0
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "EXISTING",
-      "count": 4,
-      "avg_talk": 80.2
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "FREEONLY",
-      "count": 7,
-      "avg_talk": 136.3
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "NI",
-      "count": 13,
-      "avg_talk": 251.8
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "PAYISSUE",
-      "count": 2,
-      "avg_talk": 93.0
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "SALE",
-      "count": 9,
-      "avg_talk": 1339.8
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "TOOEXP",
-      "count": 1,
-      "avg_talk": 199.0
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "code": "WRONGNO",
-      "count": 3,
-      "avg_talk": 28.0
     },
     {
       "agent": "Donna Wallington",
@@ -18342,62 +17624,6 @@
       "code": "WRONGNO",
       "count": 6,
       "avg_talk": 28.0
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "CALLBACK",
-      "count": 1,
-      "avg_talk": 207.0
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "EXISTING",
-      "count": 3,
-      "avg_talk": 96.3
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "FREEONLY",
-      "count": 23,
-      "avg_talk": 136.7
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "MEDIFOOD",
-      "count": 1,
-      "avg_talk": 44.0
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "NI",
-      "count": 22,
-      "avg_talk": 104.2
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "NOCAT",
-      "count": 2,
-      "avg_talk": 104.5
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "SALE",
-      "count": 14,
-      "avg_talk": 754.9
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "code": "WRONGNO",
-      "count": 2,
-      "avg_talk": 8.5
     },
     {
       "agent": "Franco Leto",
@@ -20664,8 +19890,8 @@
       "agent": "Jacob Jackson",
       "week": "2026-07-27",
       "code": "AGAM",
-      "count": 39,
-      "avg_talk": 5.9
+      "count": 38,
+      "avg_talk": 6.0
     },
     {
       "agent": "Jacob Jackson",
@@ -21891,83 +21117,6 @@
       "code": "XFER",
       "count": 1,
       "avg_talk": 24.0
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "CALLBACK",
-      "count": 1,
-      "avg_talk": 149.0
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "EXISTING",
-      "count": 6,
-      "avg_talk": 54.5
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "FREEONLY",
-      "count": 22,
-      "avg_talk": 138.9
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "LANGBAR",
-      "count": 2,
-      "avg_talk": 54.0
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "NI",
-      "count": 24,
-      "avg_talk": 85.5
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "NOCAT",
-      "count": 7,
-      "avg_talk": 129.4
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "REDIAL",
-      "count": 1,
-      "avg_talk": 2.0
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "SALE",
-      "count": 10,
-      "avg_talk": 791.9
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "TOOEXP",
-      "count": 2,
-      "avg_talk": 98.0
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "VULNERABLE",
-      "count": 8,
-      "avg_talk": 238.5
-    },
-    {
-      "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "code": "WRONGNO",
-      "count": 7,
-      "avg_talk": 21.4
     },
     {
       "agent": "Terrence Ndukwe",
@@ -34441,7 +33590,7 @@
       "code": "SALE",
       "count": 11,
       "agent_avg": 1690.4,
-      "team_avg": 961.9,
+      "team_avg": 962.1,
       "deviation_pct": 75.7,
       "direction": "high",
       "sample_records": [
@@ -37473,12 +36622,78 @@
       "sample_capped": false
     },
     {
+      "agent": "Jacob Jackson",
+      "code": "CALLBACK",
+      "count": 9,
+      "agent_avg": 184.6,
+      "team_avg": 347.6,
+      "deviation_pct": -46.9,
+      "direction": "low",
+      "sample_records": [
+        {
+          "date": "2026-07-31",
+          "talk": 544,
+          "record_id": "recsXPEiHGEOcAmXn",
+          "phone_masked": "073469*****"
+        },
+        {
+          "date": "2026-07-31",
+          "talk": 259,
+          "record_id": "rece5i6bwcov46Kyf",
+          "phone_masked": "075358*****"
+        },
+        {
+          "date": "2026-07-31",
+          "talk": 38,
+          "record_id": "rec69t08A6cXYTPRx",
+          "phone_masked": "074266*****"
+        },
+        {
+          "date": "2026-07-31",
+          "talk": 22,
+          "record_id": "rec05SNF1gAseMk6L",
+          "phone_masked": "078473*****"
+        },
+        {
+          "date": "2026-07-30",
+          "talk": 285,
+          "record_id": "recSlVbgycsz1BasM",
+          "phone_masked": "077750*****"
+        },
+        {
+          "date": "2026-07-30",
+          "talk": 148,
+          "record_id": "recXrxAlCRQxANEoM",
+          "phone_masked": "079504*****"
+        },
+        {
+          "date": "2026-07-28",
+          "talk": 296,
+          "record_id": "recXXxo1cZZrX0w1r",
+          "phone_masked": "078738*****"
+        },
+        {
+          "date": "2026-07-28",
+          "talk": 39,
+          "record_id": "recMXRCU4E9YGVnrY",
+          "phone_masked": "077538*****"
+        },
+        {
+          "date": "2026-07-21",
+          "talk": 30,
+          "record_id": "rec9g1KPnKAcqfekX",
+          "phone_masked": "073552*****"
+        }
+      ],
+      "sample_capped": false
+    },
+    {
       "agent": "Clementine Drake",
       "code": "SALE",
       "count": 51,
       "agent_avg": 1413.6,
-      "team_avg": 961.9,
-      "deviation_pct": 47.0,
+      "team_avg": 962.1,
+      "deviation_pct": 46.9,
       "direction": "high",
       "sample_records": [
         {
@@ -37783,72 +36998,6 @@
         }
       ],
       "sample_capped": true
-    },
-    {
-      "agent": "Jacob Jackson",
-      "code": "CALLBACK",
-      "count": 9,
-      "agent_avg": 184.6,
-      "team_avg": 347.6,
-      "deviation_pct": -46.9,
-      "direction": "low",
-      "sample_records": [
-        {
-          "date": "2026-07-31",
-          "talk": 544,
-          "record_id": "recsXPEiHGEOcAmXn",
-          "phone_masked": "073469*****"
-        },
-        {
-          "date": "2026-07-31",
-          "talk": 259,
-          "record_id": "rece5i6bwcov46Kyf",
-          "phone_masked": "075358*****"
-        },
-        {
-          "date": "2026-07-31",
-          "talk": 38,
-          "record_id": "rec69t08A6cXYTPRx",
-          "phone_masked": "074266*****"
-        },
-        {
-          "date": "2026-07-31",
-          "talk": 22,
-          "record_id": "rec05SNF1gAseMk6L",
-          "phone_masked": "078473*****"
-        },
-        {
-          "date": "2026-07-30",
-          "talk": 285,
-          "record_id": "recSlVbgycsz1BasM",
-          "phone_masked": "077750*****"
-        },
-        {
-          "date": "2026-07-30",
-          "talk": 148,
-          "record_id": "recXrxAlCRQxANEoM",
-          "phone_masked": "079504*****"
-        },
-        {
-          "date": "2026-07-28",
-          "talk": 296,
-          "record_id": "recXXxo1cZZrX0w1r",
-          "phone_masked": "078738*****"
-        },
-        {
-          "date": "2026-07-28",
-          "talk": 39,
-          "record_id": "recMXRCU4E9YGVnrY",
-          "phone_masked": "077538*****"
-        },
-        {
-          "date": "2026-07-21",
-          "talk": 30,
-          "record_id": "rec9g1KPnKAcqfekX",
-          "phone_masked": "073552*****"
-        }
-      ],
-      "sample_capped": false
     },
     {
       "agent": "Morris Christian",
@@ -40153,7 +39302,7 @@
       "code": "SALE",
       "count": 88,
       "agent_avg": 1359.6,
-      "team_avg": 961.9,
+      "team_avg": 962.1,
       "deviation_pct": 41.3,
       "direction": "high",
       "sample_records": [
@@ -45739,7 +44888,7 @@
       "code": "SALE",
       "count": 112,
       "agent_avg": 682.7,
-      "team_avg": 961.9,
+      "team_avg": 962.1,
       "deviation_pct": -29.0,
       "direction": "low",
       "sample_records": [
@@ -46471,8 +45620,8 @@
       "code": "SALE",
       "count": 30,
       "agent_avg": 1218.3,
-      "team_avg": 961.9,
-      "deviation_pct": 26.7,
+      "team_avg": 962.1,
+      "deviation_pct": 26.6,
       "direction": "high",
       "sample_records": [
         {
@@ -47118,12 +46267,6 @@
   "talk_time_weekly_sale_by_agent": [
     {
       "agent": "Braden Lee",
-      "week": "2026-05-04",
-      "count": 12,
-      "avg_talk": 1105.0
-    },
-    {
-      "agent": "Braden Lee",
       "week": "2026-05-11",
       "count": 12,
       "avg_talk": 910.9
@@ -47191,14 +46334,8 @@
     {
       "agent": "Braden Lee",
       "week": "2026-07-27",
-      "count": 19,
-      "avg_talk": 889.7
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "week": "2026-05-04",
-      "count": 11,
-      "avg_talk": 1234.3
+      "count": 18,
+      "avg_talk": 923.3
     },
     {
       "agent": "Charlene Basbudak",
@@ -47274,12 +46411,6 @@
     },
     {
       "agent": "Cian Rees",
-      "week": "2026-05-04",
-      "count": 4,
-      "avg_talk": 612.0
-    },
-    {
-      "agent": "Cian Rees",
       "week": "2026-05-11",
       "count": 14,
       "avg_talk": 883.0
@@ -47347,14 +46478,8 @@
     {
       "agent": "Cian Rees",
       "week": "2026-07-27",
-      "count": 25,
-      "avg_talk": 898.2
-    },
-    {
-      "agent": "Clementine Drake",
-      "week": "2026-05-04",
-      "count": 13,
-      "avg_talk": 1685.0
+      "count": 24,
+      "avg_talk": 875.9
     },
     {
       "agent": "Clementine Drake",
@@ -47379,12 +46504,6 @@
       "week": "2026-06-01",
       "count": 1,
       "avg_talk": 2069.0
-    },
-    {
-      "agent": "Donna Wallington",
-      "week": "2026-05-04",
-      "count": 9,
-      "avg_talk": 1339.8
     },
     {
       "agent": "Donna Wallington",
@@ -47451,12 +46570,6 @@
       "week": "2026-07-27",
       "count": 21,
       "avg_talk": 1205.7
-    },
-    {
-      "agent": "Franco Leto",
-      "week": "2026-05-04",
-      "count": 14,
-      "avg_talk": 754.9
     },
     {
       "agent": "Franco Leto",
@@ -47694,12 +46807,6 @@
     },
     {
       "agent": "Terrence Ndukwe",
-      "week": "2026-05-04",
-      "count": 10,
-      "avg_talk": 791.9
-    },
-    {
-      "agent": "Terrence Ndukwe",
       "week": "2026-05-11",
       "count": 16,
       "avg_talk": 658.4
@@ -47763,236 +46870,266 @@
     {
       "agent": "Braden Lee",
       "day_iso": 1,
-      "count": 34,
-      "avg_talk": 182.7
+      "count": 23,
+      "avg_talk": 240.6
     },
     {
       "agent": "Braden Lee",
+      "day_iso": 2,
+      "count": 25,
+      "avg_talk": 178.3
+    },
+    {
+      "agent": "Braden Lee",
+      "day_iso": 3,
+      "count": 21,
+      "avg_talk": 305.1
+    },
+    {
+      "agent": "Braden Lee",
+      "day_iso": 4,
+      "count": 51,
+      "avg_talk": 146.6
+    },
+    {
+      "agent": "Braden Lee",
+      "day_iso": 5,
+      "count": 77,
+      "avg_talk": 102.4
+    },
+    {
+      "agent": "Charlene Basbudak",
+      "day_iso": 1,
+      "count": 30,
+      "avg_talk": 196.8
+    },
+    {
+      "agent": "Charlene Basbudak",
       "day_iso": 2,
       "count": 39,
-      "avg_talk": 269.6
-    },
-    {
-      "agent": "Braden Lee",
-      "day_iso": 3,
-      "count": 23,
-      "avg_talk": 290.3
-    },
-    {
-      "agent": "Braden Lee",
-      "day_iso": 4,
-      "count": 27,
-      "avg_talk": 253.9
-    },
-    {
-      "agent": "Braden Lee",
-      "day_iso": 5,
-      "count": 28,
-      "avg_talk": 183.8
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "day_iso": 1,
-      "count": 25,
-      "avg_talk": 289.9
-    },
-    {
-      "agent": "Charlene Basbudak",
-      "day_iso": 2,
-      "count": 30,
-      "avg_talk": 130.1
+      "avg_talk": 177.2
     },
     {
       "agent": "Charlene Basbudak",
       "day_iso": 3,
-      "count": 21,
-      "avg_talk": 264.5
+      "count": 19,
+      "avg_talk": 174.7
     },
     {
       "agent": "Charlene Basbudak",
       "day_iso": 4,
-      "count": 26,
-      "avg_talk": 166.9
+      "count": 84,
+      "avg_talk": 46.3
     },
     {
       "agent": "Charlene Basbudak",
       "day_iso": 5,
-      "count": 24,
-      "avg_talk": 101.3
+      "count": 77,
+      "avg_talk": 73.9
+    },
+    {
+      "agent": "Charlene Basbudak",
+      "day_iso": 6,
+      "count": 10,
+      "avg_talk": 121.8
     },
     {
       "agent": "Cian Rees",
       "day_iso": 1,
-      "count": 13,
-      "avg_talk": 786.5
-    },
-    {
-      "agent": "Cian Rees",
-      "day_iso": 2,
       "count": 12,
-      "avg_talk": 727.9
+      "avg_talk": 541.2
     },
     {
       "agent": "Cian Rees",
-      "day_iso": 3,
-      "count": 15,
-      "avg_talk": 554.5
-    },
-    {
-      "agent": "Cian Rees",
-      "day_iso": 4,
-      "count": 5,
-      "avg_talk": 1056.0
-    },
-    {
-      "agent": "Cian Rees",
-      "day_iso": 5,
-      "count": 11,
-      "avg_talk": 509.3
-    },
-    {
-      "agent": "Donna Wallington",
-      "day_iso": 1,
-      "count": 24,
-      "avg_talk": 564.7
-    },
-    {
-      "agent": "Donna Wallington",
       "day_iso": 2,
-      "count": 24,
-      "avg_talk": 446.6
-    },
-    {
-      "agent": "Donna Wallington",
-      "day_iso": 4,
-      "count": 23,
-      "avg_talk": 440.7
-    },
-    {
-      "agent": "Donna Wallington",
-      "day_iso": 5,
-      "count": 21,
-      "avg_talk": 322.0
-    },
-    {
-      "agent": "Franco Leto",
-      "day_iso": 1,
-      "count": 32,
-      "avg_talk": 298.1
-    },
-    {
-      "agent": "Franco Leto",
-      "day_iso": 2,
-      "count": 31,
-      "avg_talk": 286.4
-    },
-    {
-      "agent": "Franco Leto",
-      "day_iso": 3,
-      "count": 11,
-      "avg_talk": 323.5
-    },
-    {
-      "agent": "Franco Leto",
-      "day_iso": 4,
-      "count": 29,
-      "avg_talk": 325.4
-    },
-    {
-      "agent": "Franco Leto",
-      "day_iso": 5,
-      "count": 26,
-      "avg_talk": 428.0
-    },
-    {
-      "agent": "Ilyas Chentouf",
-      "day_iso": 1,
-      "count": 18,
-      "avg_talk": 544.3
-    },
-    {
-      "agent": "Ilyas Chentouf",
-      "day_iso": 2,
-      "count": 24,
-      "avg_talk": 567.6
-    },
-    {
-      "agent": "Ilyas Chentouf",
-      "day_iso": 3,
-      "count": 21,
-      "avg_talk": 513.8
-    },
-    {
-      "agent": "Jacob Jackson",
-      "day_iso": 1,
-      "count": 44,
-      "avg_talk": 296.8
-    },
-    {
-      "agent": "Jacob Jackson",
-      "day_iso": 2,
-      "count": 24,
-      "avg_talk": 363.3
-    },
-    {
-      "agent": "Jacob Jackson",
-      "day_iso": 3,
-      "count": 21,
-      "avg_talk": 342.3
-    },
-    {
-      "agent": "Jacob Jackson",
-      "day_iso": 4,
-      "count": 18,
-      "avg_talk": 373.7
-    },
-    {
-      "agent": "Jacob Jackson",
-      "day_iso": 5,
       "count": 17,
-      "avg_talk": 224.1
+      "avg_talk": 279.5
+    },
+    {
+      "agent": "Cian Rees",
+      "day_iso": 3,
+      "count": 14,
+      "avg_talk": 212.1
+    },
+    {
+      "agent": "Cian Rees",
+      "day_iso": 4,
+      "count": 44,
+      "avg_talk": 181.4
+    },
+    {
+      "agent": "Cian Rees",
+      "day_iso": 5,
+      "count": 70,
+      "avg_talk": 137.6
+    },
+    {
+      "agent": "Donna Wallington",
+      "day_iso": 1,
+      "count": 31,
+      "avg_talk": 536.9
+    },
+    {
+      "agent": "Donna Wallington",
+      "day_iso": 2,
+      "count": 33,
+      "avg_talk": 244.7
+    },
+    {
+      "agent": "Donna Wallington",
+      "day_iso": 4,
+      "count": 42,
+      "avg_talk": 300.9
+    },
+    {
+      "agent": "Donna Wallington",
+      "day_iso": 5,
+      "count": 50,
+      "avg_talk": 235.7
+    },
+    {
+      "agent": "Franco Leto",
+      "day_iso": 1,
+      "count": 40,
+      "avg_talk": 279.6
+    },
+    {
+      "agent": "Franco Leto",
+      "day_iso": 2,
+      "count": 42,
+      "avg_talk": 229.0
+    },
+    {
+      "agent": "Franco Leto",
+      "day_iso": 3,
+      "count": 11,
+      "avg_talk": 142.7
+    },
+    {
+      "agent": "Franco Leto",
+      "day_iso": 4,
+      "count": 63,
+      "avg_talk": 114.4
+    },
+    {
+      "agent": "Franco Leto",
+      "day_iso": 5,
+      "count": 79,
+      "avg_talk": 129.4
+    },
+    {
+      "agent": "Ilyas Chentouf",
+      "day_iso": 1,
+      "count": 20,
+      "avg_talk": 439.1
+    },
+    {
+      "agent": "Ilyas Chentouf",
+      "day_iso": 2,
+      "count": 15,
+      "avg_talk": 391.5
+    },
+    {
+      "agent": "Ilyas Chentouf",
+      "day_iso": 3,
+      "count": 9,
+      "avg_talk": 539.3
+    },
+    {
+      "agent": "Ilyas Chentouf",
+      "day_iso": 4,
+      "count": 11,
+      "avg_talk": 466.5
+    },
+    {
+      "agent": "Ilyas Chentouf",
+      "day_iso": 5,
+      "count": 70,
+      "avg_talk": 141.8
+    },
+    {
+      "agent": "Jacob Jackson",
+      "day_iso": 1,
+      "count": 23,
+      "avg_talk": 360.6
+    },
+    {
+      "agent": "Jacob Jackson",
+      "day_iso": 2,
+      "count": 24,
+      "avg_talk": 376.4
+    },
+    {
+      "agent": "Jacob Jackson",
+      "day_iso": 3,
+      "count": 23,
+      "avg_talk": 297.7
+    },
+    {
+      "agent": "Jacob Jackson",
+      "day_iso": 4,
+      "count": 46,
+      "avg_talk": 213.4
+    },
+    {
+      "agent": "Jacob Jackson",
+      "day_iso": 5,
+      "count": 63,
+      "avg_talk": 195.4
+    },
+    {
+      "agent": "Jennifer Keegan",
+      "day_iso": 1,
+      "count": 21,
+      "avg_talk": 524.1
     },
     {
       "agent": "Jennifer Keegan",
       "day_iso": 2,
-      "count": 5,
-      "avg_talk": 1051.4
+      "count": 24,
+      "avg_talk": 252.4
     },
     {
       "agent": "Jennifer Keegan",
       "day_iso": 3,
-      "count": 11,
-      "avg_talk": 687.5
+      "count": 18,
+      "avg_talk": 369.8
     },
     {
       "agent": "Jennifer Keegan",
       "day_iso": 4,
-      "count": 13,
-      "avg_talk": 283.4
+      "count": 43,
+      "avg_talk": 279.1
     },
     {
-      "agent": "Jennifer Keegan",
-      "day_iso": 5,
-      "count": 16,
-      "avg_talk": 517.8
+      "agent": "Yasmeen El Mansoob",
+      "day_iso": 1,
+      "count": 5,
+      "avg_talk": 951.8
     },
     {
       "agent": "Yasmeen El Mansoob",
       "day_iso": 2,
-      "count": 5,
-      "avg_talk": 244.4
+      "count": 25,
+      "avg_talk": 267.6
     },
     {
       "agent": "Yasmeen El Mansoob",
       "day_iso": 3,
-      "count": 11,
-      "avg_talk": 260.3
+      "count": 23,
+      "avg_talk": 327.7
+    },
+    {
+      "agent": "Yasmeen El Mansoob",
+      "day_iso": 4,
+      "count": 47,
+      "avg_talk": 143.7
     },
     {
       "agent": "Yasmeen El Mansoob",
       "day_iso": 5,
-      "count": 15,
-      "avg_talk": 727.1
+      "count": 54,
+      "avg_talk": 182.3
     }
   ],
   "suspicious_tile_counts": [
@@ -48298,8 +47435,8 @@
     {
       "agent": "Cian Rees",
       "minute": "15+",
-      "total": 121,
-      "sales": 117,
+      "total": 120,
+      "sales": 116,
       "sale_pct": 96.7
     },
     {
@@ -49087,13 +48224,13 @@
     },
     {
       "minute": "15+",
-      "total": 976,
-      "sales": 888,
+      "total": 975,
+      "sales": 887,
       "sale_pct": 91.0
     }
   ],
   "talk_time_meta": {
-    "records_with_talk_time": 10821,
+    "records_with_talk_time": 10818,
     "hangup_threshold_seconds": 60,
     "hungup_threshold_seconds": 60,
     "agam_threshold_seconds": 60,
@@ -49118,7 +48255,7 @@
     ],
     "airtable_base_id": "appc3AWUlFaHlmdWk",
     "airtable_table_id": "tblvKTDt7r9JYHqGO",
-    "last_completed_week_start": "2026-07-20",
-    "last_completed_week_end": "2026-07-26"
+    "last_completed_week_start": "2026-07-27",
+    "last_completed_week_end": "2026-08-02"
   }
 }
